@@ -1,0 +1,16 @@
+---
+title: '\valentina Durham Cathedral MS D1'
+author: D F A Ligertwood
+csl: chicago-note-bibliography.csl
+documentclass: report
+mainfont: EB Garamond
+fontsize: 10pt
+papersize: a4paper
+geometry: margin=1.25in
+header-includes:
+	- '\newfontface\valentina[Ligatures={Rare},Scale=1.2]{Valentina}'
+	- '\usepackage{sectsty}'
+	- '\allsectionsfont{\valentina}'
+	- '\usepackage{tablefootnote}'
+	- '\usepackage[doublespacing]{setspace}'
+---
