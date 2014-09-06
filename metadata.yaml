@@ -6,7 +6,6 @@ documentclass: scrbook
 mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
-geometry: margin=1.25in
 header-includes:
 	- '\newfontface\titleFont[Ligatures={Rare},Scale=1.2,Letters=SmallCaps]{Avenir Next Medium}'
 	- '\usepackage{sectsty}'
