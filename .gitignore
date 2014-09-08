@@ -1,3 +1,1 @@
-*.pdf
-*.swp
-*.out
+.DS_Store
