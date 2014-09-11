@@ -7,8 +7,6 @@ mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
 header-includes:
-	- '\usepackage{tablefootnote}'
-	- '\usepackage[doublespacing]{setspace}'
 	- '\usepackage{lilyglyphs}'
 	- '\newfontface\authorFont[Letters=SmallCaps]{Avenir Next}'
 ---
