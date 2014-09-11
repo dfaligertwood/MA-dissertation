@@ -7,6 +7,4 @@ mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
 header-includes:
-	- '\usepackage{lilyglyphs}'
-	- '\newfontface\authorFont[Letters=SmallCaps]{Avenir Next}'
 ---
