@@ -7,8 +7,6 @@ mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
 header-includes:
-	- '\newfontface\titleFont[Ligatures={Rare},Scale=1.2,Letters=SmallCaps]{Avenir Next Medium}'
-	- '\usepackage{sectsty}'
 	- '\allsectionsfont{\titleFont}'
 	- '\usepackage{tablefootnote}'
 	- '\usepackage[doublespacing]{setspace}'
