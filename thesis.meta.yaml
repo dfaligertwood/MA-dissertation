@@ -1,17 +1,9 @@
 ---
-title: '\titleFont Durham Cathedral ms d1'
-author: '\authorFont d f a ligertwood'
+title: 'Durham Cathedral ms d1'
+author: 'd f a ligertwood'
 csl: chicago-note-bibliography.csl
 documentclass: scrbook
 mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
-header-includes:
-	- '\newfontface\titleFont[Ligatures={Rare},Scale=1.2,Letters=SmallCaps]{Avenir Next Medium}'
-	- '\usepackage{sectsty}'
-	- '\allsectionsfont{\titleFont}'
-	- '\usepackage{tablefootnote}'
-	- '\usepackage[doublespacing]{setspace}'
-	- '\usepackage{lilyglyphs}'
-	- '\newfontface\authorFont[Letters=SmallCaps]{Avenir Next}'
 ---
