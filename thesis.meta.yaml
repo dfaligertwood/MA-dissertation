@@ -6,5 +6,4 @@ documentclass: scrbook
 mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
-header-includes:
 ---
