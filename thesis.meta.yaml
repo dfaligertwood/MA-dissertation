@@ -3,7 +3,7 @@ title: 'Durham Cathedral ms d1'
 author: 'd f a ligertwood'
 csl: chicago-note-bibliography.csl
 documentclass: scrbook
-mainfont: EB Garamond
+mainfont: Junicode
 fontsize: 10pt
 papersize: a4paper
 ---
