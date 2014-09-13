@@ -5,7 +5,7 @@ csl: chicago-note-bibliography.csl
 documentclass: scrbook
 classoption:
         - 'headings=twolinechapter'
-        - 'no
+        - 'nochapterprefix'
 mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
