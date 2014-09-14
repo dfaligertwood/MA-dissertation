@@ -9,5 +9,4 @@ classoption:
 mainfont: EB Garamond
 fontsize: 10pt
 papersize: a4paper
-bibliography: /Users/dfaligertwood/.pandoc/default.json
 ---
