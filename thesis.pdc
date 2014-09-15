@@ -129,7 +129,7 @@ length including da capo; 59 bars excluding da capo.
 
 ### Text
 
-\resetlinenumbers{1}
+\resetlinenumber{1}
 > | Behold! [^2:b1] behold! ye Sons of Earth,
 > |   To you glad Tydings here I bring!
 > | Proclaiming now the joyful Birth
