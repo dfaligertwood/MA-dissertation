@@ -74,7 +74,7 @@ corresponding music.
 
 ### Music
 
-Recitativo, scored for Basso Solo\ed and Continuo\ed.\
+Recitativo scored for Basso Solo\ed and Continuo\ed.\
 Key Signature: G. Time Signature: \lilyTimeC{}. 17 bars in length.
 
  
@@ -126,8 +126,8 @@ Key Signature: G. Time Signature: \lilyTimeC{}. 17 bars in length.
 
 ### Music
 
-_Da capo_ aria, scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, 
-and \continuo\ed \
+Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
+\continuo\ed \
 Key Signature: D. Time Signature: \lilyTimeC{} and \lilyTimeSignature{3}{4}. 88 
 bars in length including da capo; 59 bars excluding da capo.
 
@@ -161,7 +161,7 @@ bars in length including da capo; 59 bars excluding da capo.
 
 ### Music
 
-Recitativo for \tenore solo\ed{} with \continuo\ed.\
+Recitativo scored for \tenore solo\ed{} with \continuo\ed.\
 Key Signature: D. Time Signature: \lilyTimeC{}. 11 bars in length.
 
 ### Text
@@ -173,7 +173,7 @@ Key Signature: D. Time Signature: \lilyTimeC{}. 11 bars in length.
 
 ### Music
 
-Chorus for SATB Chorus\ed with \tromba{}, \violinoI\andII, \viola, and 
+Chorus scored for SATB Chorus\ed with \tromba{}, \violinoI\andII, \viola, and 
 \continuo\ed.\
 Key Signature: G. Time Signature: \lilyTimeC{}. 54 bars in length.
 
@@ -182,6 +182,12 @@ Key Signature: G. Time Signature: \lilyTimeC{}. 54 bars in length.
 \newpage
 
 5^th^ \mvmt: To Heav'n return'd the Angels
+------------------------------------------
+
+### Music
+
+Recitativo scored for \treble solo\ed with \continuo\ed.\
+Key Signature: D. Time Signature: \lilyTimeC{}. 
 
 Review
 ======
