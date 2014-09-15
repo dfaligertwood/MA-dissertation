@@ -186,7 +186,7 @@ Key Signature: G. Time Signature: \lilyTimeC{}. 54 bars in length.
 
 ### Music
 
-Recitativo scored for \treble solo\ed with \continuo\ed.\
+Recitativo scored for \treble{} solo\ed with \continuo\ed.\
 Key Signature: D. Time Signature: \lilyTimeC{}. 13 bars in length with attacca.
 
 ### Text
@@ -198,7 +198,7 @@ Key Signature: D. Time Signature: \lilyTimeC{}. 13 bars in length with attacca.
 
 ### Music
 
-Da capo Aria scored for \treble solo\ed with 
+Da capo Aria scored for \treble{} solo\ed with \traversiere{}
 
 
 Review
