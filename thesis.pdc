@@ -127,7 +127,7 @@ Key Signature: F\sharp{}. Time Signature: \lilyTimeC{}. Length: 17 bars.
 
 ### Music
 
-\describeMvmt{Aria}{\basso solo}{\tromba, \violinoI and \II, \continuo}
+\describeMvmt{Aria}{\basso solo\ed}{\tromba, \violinoI and \II, \continuo}
 
 ### Text
 
