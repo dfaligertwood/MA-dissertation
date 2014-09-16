@@ -215,9 +215,6 @@ Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
 5^th^ \mvmt: *To Heav'n return'd the Angels*
 ------------------------------------------
 
-Recitativo scored for \treble{} solo\ed with \continuo\ed.\
-Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
-
 ### Text
 
 > To Heav'n return'd the Angels: to Bethlem \rln \
@@ -233,14 +230,13 @@ Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
 
 ### Music
 
+Recitativo scored for \treble{} solo\ed with \continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
+
 \newpage
 
 6^th^ \mvmt: *The time's fulfill'd, which Bards of Old*
 -----------------------------------------------------
-
-Da capo Aria scored for Lycidas with \travers{} and \continuo\ed.\
-Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61 
-bars including da capo; 33 bars excluding da capo.
 
 ### Text
 
@@ -258,14 +254,14 @@ bars including da capo; 33 bars excluding da capo.
 
 ### Music
 
+Da capo Aria scored for Lycidas with \travers{} and \continuo\ed.\
+Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61 
+bars including da capo; 33 bars excluding da capo.
+
 \newpage
 
 7^th^ \mvmt: _These are the Shepherd's Golden days_
 -------------------------------------------------
-
-Da capo Aria scored for Corydon with \traversI\andII{} and \continuo\ed.\
-Key Signature: G. Time: \lilyTimeSignature{3}{8}, _Vivace_. 169 bars including 
-da capo; 97 bars excluding da capo.
 
 ### Text
 
@@ -282,6 +278,10 @@ da capo; 97 bars excluding da capo.
 \newpage
 
 ### Music
+
+Da capo Aria scored for Corydon with \traversI\andII{} and \continuo\ed.\
+Key Signature: G. Time: \lilyTimeSignature{3}{8}, _Vivace_. 169 bars including 
+da capo; 97 bars excluding da capo.
 
 \newpage
 
@@ -328,10 +328,10 @@ da capo; 97 bars excluding da capo.
 
 ### Text
 
-> | Christ is the Shepherd of us all; \rln     ^[~ a]
-> |   He will his wand'ring Sheep direct;      ^[~ b]
-> | The weak ones to his Bosom call,           ^[~ a]
-> |   and those that are with young, protect.  ^[~ b]
+> | Christ is the Shepherd of us all;                         ^[~ a] \rln       
+> |   He will his wand'ring Sheep direct;                     ^[~ b]
+> | The weak ones to his Bosom call,                          ^[~ a]
+> |   and those that are with young, protect.                 ^[~ b]
 
 \newpage
 
