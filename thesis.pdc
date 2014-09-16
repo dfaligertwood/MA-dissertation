@@ -326,7 +326,7 @@ da capo; 97 bars excluding da capo.
 
 ### Text
 
-> | Christ is the Shepherd of us all;          ^[~ a]
+> | Christ is the Shepherd of us all; \rln     ^[~ a]
 > |   He will his wand'ring Sheep direct;      ^[~ b]
 > | The weak ones to his Bosom call,           ^[~ a]
 > |   and those that are with young, protect.  ^[~ b]
@@ -337,7 +337,10 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-10^th^ \mvmt: But lo! 
+10^th^ \mvmt: But lo! a bright and wond'rous Star arose
+-------------------------------------------------------
+
+### Text
 
 Review
 ======
