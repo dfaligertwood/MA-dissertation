@@ -129,16 +129,16 @@ length including da capo; 59 bars excluding da capo.
 
 ### Text
 
-> | [^2:t2] Behold! [^2:b1] behold! ye Sons of Earth,
-> |   To you glad Tydings here I bring!
-> | Proclaiming now the joyful Birth
-> |   Of _Christ_ your Saviour and your King.
-> | Go [^2:b2] now to Bethl'em, David's Town,
-> |   The [^2:t1] there you'll find;
-> |           There [^2:b3] in a Manger lies
-> | Your God incarnate from the Skies:
-> |           Whom mighty Love brought down,
-> | A saving Love to all Mankind.
+> | ^a^ [^2:t2] Behold! [^2:b1] behold! ye Sons of Earth,
+> | ^b^   To you glad Tydings here I bring!
+> | ^a^ Proclaiming now the joyful Birth
+> | ^b^   Of _Christ_ your Saviour and your King.
+> | ^c^ Go [^2:b2] now to Bethl'em, David's Town,
+> | ^d^   The [^2:t1] there you'll find;
+> | ^e^           There [^2:b3] in a Manger lies
+> | ^e^ Your God incarnate from the Skies:
+> | ^c^           Whom mighty Love brought down,
+> | ^d^ A saving Love to all Mankind.
 
 [^2:b1]: \> luke 2:10
 
