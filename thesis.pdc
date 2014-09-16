@@ -125,7 +125,7 @@ that the composer uses throughout. In particular, it is
 Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
 \continuo\ed \
 Key Signature: D. Time: \lilyTimeC{} and \lilyTimeSignature{3}{4}. 88 bars in 
-length including da capo; 59 bars excluding da capo.
+length including da capo; 59 excluding da capo.
 
 ### Text
 
@@ -140,6 +140,8 @@ length including da capo; 59 bars excluding da capo.
 > | Your God incarnate from the Skies:                ^[~ e]
 > |           Whom mighty Love brought down,          ^[~ c]
 > | A saving Love to all Mankind.                     ^[~ d]
+
+
 
 [^2:b1]: \> luke 2:10
 
