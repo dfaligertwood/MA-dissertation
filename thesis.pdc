@@ -169,7 +169,7 @@ Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
 
 ### Text
 
-> [^3:t1] Scarce [^3:b1] had the Angel clos'd his Song, when strait\
+> Scarce [^3:b1] had the Angel clos'd his Song, when strait\
 > Th'Adamantin Doors of Heav'n flew open\
 > In wide Expanse; from whenceforth issu'd\
 > A Quire of Cherubim, in Consort join'd\
@@ -177,8 +177,6 @@ Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
 > A Jubile of highest Praise, and sang,
 
 [^3:b1]: \> luke 2:13
-
-[^3:t1]: | : Although 
 
 \newpage
 
