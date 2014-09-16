@@ -63,72 +63,209 @@ Background
 Analysis
 ========
 
-This chapter consists of an analysis of the libretto and the music that 
-accompanies it. In particular, I will provide background to the text of the 
-libretto, for example by describing why the librettist may have chosen certain 
-words or phrases. In addition to this, each movement will have the relevant 
-bible verses noted in the sidenotes where they apply.
+The bulk of this chapter will consist of a transcription of the text of the 
+libretto, together with editorial comments and descriptions of the 
+corresponding music.
 
 \newpage
 
 1^st^ \mvmt: _The Night was Dark and Silent_
 ------------------------------------------
 
-Recitativo.\
-Scored for Basso Solo^†^ and Continuo^†^.\
-Key Signature: 1 \sharp{}. Time Signature: \lilyTimeC{}. Length: 17 bars.
+Recitativo scored for Basso Solo\ed and Continuo\ed.\
+Key Signature: G. Time: \lilyTimeC{}. 17 bars in length.
 
-This section begins in D major, the same key as the Corelli Concerto Grosso, 
-and modulates to the dominant for the following Aria.
+### Text
 
-> The Night was dark and silent; when [^2]\
-> And [^3], both faithful Shepherds met,\
-> As wont to meet each other; and watch their flocks,\
+> The Night was dark and silent; when [^1:2]\
+> And [^1:3], both faithful Shepherds met,\
+> As [^1:4] wont to meet each other; and watch their flocks,\
 > Which lay about them cluster’d: when an Angel\
-> [^4] From Heav’n [^5] on a Beam of Light\
-> [^6] glorious: they stood\
-> Amaz’d: but he with this message chear’d them;\
+> From [^1:7] Heav’n descended on a Beam of Light\
+> Insufferably glorious: they stood\
+> Amaz’d: [^1:8] but he with this message chear’d them;\
 > While Symphonies resounded sweetly warbling,\
 > The Trump of God preluding to his Song.
 
-[^2]: | Lycidas : a traditional name for classical shepherd in Pastorals,
-      Lycidas appears in Theocritus' *Idylls* [@Theocritus_1901_i1236, 7^th^ 
-      Idyll] and Vergil's *Eclogues,* [@Virgil_1900_i1237, 7^th^ and 9^th^ 
-      Eclogues] appearing in Eclogue <span 
-      style="font-variant:small-caps;">IX</span>, a fact of which Drake would 
-      have been aware. In particular, Holdsworth --- his fellow-demy and 
-      probable tutor --- was a well-known authority on the Vergil, although his 
-      writings do not ascribe any particular meaning to the name Lycidas. 
-      [@Holdsworth_1768_i1229, p. 32-33] However, Drake would also have been 
-      aware of John Milton's *Lycidas*, a Pastoral Elegy. As such, the use of 
-      Lycidas serves to ground the libretto in the English Pastoral tradition. 
+[^1:2]: | Lycidas : A traditional name in Pastorals, Lycidas appears as a
+      goatherd in Theocritus' *Idylls* and a shepherd in Virgil's *Eclogues,* 
+      [@Theocritus_1901_i1236, 7^th^ Idyll; @Virgil_1900_i1237, 7^th^ and 9^th^ 
+      Eclogues] a fact of which the librettist would have been aware. In 
+      particular, Mr. Holdsworth, who attended Magdalen at the same time as 
+      Drake and was a member of the Oxford Music Club, was a well-known 
+      authority on Virgil, although his writings do not ascribe any particular 
+      meaning to the name Lycidas. [@Holdsworth_1768_i1229, p. 32-33] Drake 
+      would also have been aware of John Milton's *Lycidas*, an extremely 
+      popular poem of the English Pastoral tradition. As such, the use of 
+      Lycidas serves to ground the libretto solidly in this tradition.
 
-[^3]: | Corydon : Similarly, this name appears multiple times in the
+[^1:3]: | Corydon : Similarly, this name appears multiple times in the
       *Eclogues* and *Idylls* [@Theocritus_1901_i1236, 4^th^ Idyll; 
-      @Virgil_1900_i1237, 2^nd^ and 7^th^ Eclogues] and grounds the poet within 
-      the English Pastoral tradition.
+      @Virgil_1900_i1237, 2^nd^ and 7^th^ Eclogues] and helps to ground the 
+      libretto within the English Pastoral tradition.
 
-[^4]: \> luke 2:8-9
+[^1:4]: \> luke 2:8
 
-[^5]: | descended : descending triad in the basso.
+[^1:7]: \> luke 2:9
 
-[^6]: | Insufferably : sustained chromatic dischords between the Continuo and the singer.
+[^1:8]: \> luke 2:10
+
+\newpage
+
+### Music
+
+This first movement of the piece provides a good example of the word-painting 
+that the composer uses throughout. In particular, it is 
 
 \newpage
 
 2^nd^ \mvmt: _Behold! behold! ye Sons of Earth._
 ----------------------------------------------
 
-> | Behold! behold! ye Sons of Earth,
-> |   To you glad Tydings here I bring!
-> | Proclaiming now the joyful Birth
-> |   Of _Christ_ your Saviour and your King.
-> | Go now to Bethl'em, David's Town,
-> |   The Son of David there you'll find;
-> |           There in a Manger lies
-> | Your God incarnate from the Skies:
-> |           Whom mighty Love brought down,
-> | A saving Love to all Mankind.
+Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
+\continuo\ed \
+Key Signature: D. Time: \lilyTimeC{} and \lilyTimeSignature{3}{4}. 88 bars in 
+length including da capo; 59 excluding da capo.
+
+### Text
+
+> | Behold! [^2:b1] behold! ye Sons of Earth, \rln    ^[~ a]
+> |   To you glad [^2:t2] here I bring!               ^[~ b]
+> | Proclaiming now the joyful Birth                  ^[~ a]
+> |   Of _Christ_ your Saviour and your King.           ^[~ b]
+
+> | Go [^2:b2] now to Bethl'em, David's Town,         ^[~ c]
+> |   The [^2:t1] there you'll find;                  ^[~ d]
+> |           There [^2:b3] in a Manger lies          ^[~ e]
+> | [^2:t3]:                                          ^[~ e]
+> |           Whom mighty Love brought down,          ^[~ c]
+> | A saving Love to all Mankind.                     ^[~ d]
+
+[^2:b1]: \> luke 2:10
+
+[^2:b2]: \> luke 2:11
+
+[^2:b3]: \> luke 2:12
+
+[^2:t1]: | Son of David : Although the identification of Christ as the 'Son
+       of David' occurs throughout the Gospels, it is primarily a Matthean 
+       theme, bringing attention to the concept of Jesus as the promised 
+       Messiah.
+
+[^2:t2]: | Tydings : Compare the Vulgate 'evangelizo vobis gaudium magnum',
+       lit. 'I evangelize to you great joy', with the corresponding verse in 
+       the King James' Version 'I bring you good tidings of great joy'.
+       This appears to be a strong indicator that the Librettist has actively 
+       chosen to echo the words of the King James Bible at this point.
+
+[^2:t3]: | Your God incarnate from the Skies : Again, this is a non-Lucan
+       statement, drawing attention to the status of Jesus as both God and Man.
+
+\newpage
+
+### Music
+
+\newpage
+
+3^rd^ \mvmt: *Scarce had the Angel clos'd his Song*
+-------------------------------------------------
+
+Recitativo scored for \tenore{} solo\ed{} with \continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
+
+### Text
+
+> Scarce had the Angel clos'd his Song, when strait [^3:b1]\
+> Th'Adamantin Doors of Heav'n flew open\
+> In wide Expanse; from whenceforth issu'd\
+> A Quire of Cherubim, in Consort join'd\
+> Harmonious, that play'd on golden Harps\
+> A Jubile of highest Praise, and sang,
+
+[^3:b1]: \> luke 2:13
+
+\newpage
+
+### Music
+
+\newpage
+
+4^th^ \mvmt, Chorus of Angels: *Glory to God, Supreme above*
+----------------------------------------------------------
+
+Chorus scored for SATB Chorus\ed with \tromba{}, \violinoI\andII, \viola, and 
+\continuo\ed.\
+Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
+
+### Text
+
+> | Glory to God, supreme above, [^4:b1]  [~ a]
+> |   To Man Acceptance, and free Grace.  [~ b]
+> | Among the Sons of human Race,         [~ b]
+> | Be Peace, and Everlasting Love.       [~ a]
+
+[^4:b1]: \> luke 2:14
+
+\newpage
+
+### Music
+
+\newpage
+
+5^th^ \mvmt: *To Heav'n return'd the Angels*
+------------------------------------------
+
+Recitativo scored for \treble{} solo\ed with \continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
+
+### Text
+
+\newpage
+
+### Music
+
+\newpage
+
+6^th^ \mvmt: *The time's fulfill'd, which Bards of Old*
+-----------------------------------------------------
+
+Da capo Aria scored for Lycidas with \travers{} and \continuo\ed.\
+Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61 
+bars including da capo; 33 bars excluding da capo.
+
+### Text
+
+\newpage
+
+### Music
+
+\newpage
+
+7^th^ \mvmt: _These are the Shepherd's Golden days_
+-------------------------------------------------
+
+Da capo Aria scored for Corydon with \traversI\andII{} and \continuo\ed.\
+Key Signature: G. Time: \lilyTimeSignature{3}{8}, _Vivace_. 169 bars including 
+da capo; 97 bars excluding da capo.
+
+### Text
+
+\newpage
+
+### Music
+
+\newpage
+
+8^th^ \mvmt, An Alternat Pastoral for Shepherd's Boys: *The Shepherd of our Souls is here*
+-----------------------------------------------------------------------------------------
+
+### Text
+
+\newpage
+
+### Music
+
+\newpage
 
 Review
 ======
