@@ -404,11 +404,11 @@ da capo; 97 bars excluding da capo.
 ### Text
 
 > | For Thee our Aromatic Fields                       ^[~ a] \rln
-> |   In gay Profusion grow:                    > | For Thee her Gems Saban 
-yeilds,
-> |   And Groves with Spices glow.
-> | This Myrrh, Good Lord, accept from me;
-> | As all our Myrrh shou'd drop for Thee.
+> |   In gay Profusion grow:                           ^[~ b]
+> | For Thee her Gems Saban yeilds,                    ^[~ a]
+> |   And Groves with Spices glow.                     ^[~ b]
+> | This Myrrh, Good Lord, accept from me;             ^[~ c]
+> | As all our Myrrh shou'd drop for Thee.             ^[~ c]
 
 \newpage
 
