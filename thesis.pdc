@@ -342,7 +342,7 @@ da capo; 97 bars excluding da capo.
 
 ### Text
 
-> But lo! a bright and wond'rous Star arose,
+> But lo! a bright and wond'rous Star arose, \rln
 > To lead three Royal Magi from the East,
 > Melchior, and Casper, and Balthazar;
 > Who waited long the rising of Messiah.
@@ -358,6 +358,8 @@ da capo; 97 bars excluding da capo.
 ### Music
 
 \newpage
+
+
 
 Review
 ======
