@@ -41,8 +41,8 @@ The contents are as follows:
 +-------------------+--------------+--------------+--+
 |                   | Blank Pages  | Blank Pages  |  |
 +-------------------+--------------+--------------+--+
-| \footnotesize     | Insert       | Insert       |  |
-| A 'preface,'      | [^a:s1]      | [^a:s2]      |  |
+| \footnotesize     | Insert       | Insert       | \footnotesize |
+| A 'preface,'      | [^a:s1]      | [^a:s2]      | 
 | presumably from   |              |              |  |
 | the 1912 edition. |              |              |  |
 |                   |              |              |  |
