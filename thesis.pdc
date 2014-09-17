@@ -36,7 +36,7 @@ century.
 Both [ms] are by the same copyist, and display a number of clear similarities. 
 The contents are as follows:
 
-\begin{center}
+<span style="text-align:center;">
 +----------------+----------------+
 | [ms] [d1]      | [ms] [e1]      |
 +----------------+----------------+
@@ -49,6 +49,7 @@ The contents are as follows:
 |                | libretto       |
 +----------------+----------------+
 | Title Page     | Title Page     |
+
 
 
 In addition to the music, the book is prefaced by a copy of the libretto, again
