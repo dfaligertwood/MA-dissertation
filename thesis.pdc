@@ -36,11 +36,11 @@ century.
 Both [ms] are by the same copyist, and display a number of clear similarities. 
 The contents are as follows:
 
-+----------------+----------------+
-+-+-+
-+----------------+----------------+
-| Blank Pages    | Blank Pages    |
-+----------------+----------------+
++----------------+----------------+-------------+--+
+|                | [ms] [d1]      | [ms] [e1]   |  |
++----------------+----------------+-------------+--+
+|                | Blank Pages    | Blank Pages |  |
++----------------+----------------+-------------+--+
 | Insert [^a:s1] | Insert [^a:s2] |
 +----------------+----------------+
 | Frontispiece   | Frontispiece   |
