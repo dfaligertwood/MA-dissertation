@@ -44,11 +44,12 @@ The contents are as follows:
 | Insert [^a:s1] | Insert [^a:s2] |
 +----------------+----------------+
 | Frontispiece   | Frontispiece   |
-|                | containing     |
-|                | libretto       |
+| [^a:s3]        | [^a:s4]        |
+|                |                |
 +----------------+----------------+
 | Title Page     | Title Page     |
 +----------------+----------------+
+| 
 
 
 In addition to the music, the book is prefaced by a copy of the libretto, again
