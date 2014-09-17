@@ -36,18 +36,19 @@ century.
 Both [ms] are by the same copyist, and display a number of clear similarities. 
 The contents are as follows:
 
-+---------------+---------------+
-| [ms] [d1]     | [ms] [e1]     |
-+---------------+---------------+
-| Blank Pages   | Blank Pages   |
-+---------------+---------------+
-| Insert [^a:1] | Insert [^a:2] |
-+---------------+---------------+
-| Frontispiece  | Frontispiece  |
-|               | containing    |
-|               | libretto      |
-+---------------+---------------+
-| Title Page    | Title Page    |
++----------------+----------------+
+| [ms] [d1]      | [ms] [e1]      |
++----------------+----------------+
+| Blank Pages    | Blank Pages    |
++----------------+----------------+
+| Insert [^a:s1] | Insert [^a:s2] |
++----------------+----------------+
+| Frontispiece   | Frontispiece   |
+|                | containing     |
+|                | libretto       |
++----------------+----------------+
+| Title Page     | Title Page     |
+|
 
 
 In addition to the music, the book is prefaced by a copy of the libretto, again
