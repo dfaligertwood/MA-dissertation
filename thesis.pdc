@@ -42,7 +42,9 @@ The contents are as follows:
 |               | Blank Pages  | Blank Pages  |  |
 +---------------+--------------+--------------+--+
 | \footnotesize | Insert       | Insert       |  |
-|               | [^a:s1]      | [^a:s2]      |  |
+| A 'preface,'  | [^a:s1]      | [^a:s2]      |  |
+| presumably    |              |              |  |
+| from the 
 +---------------+--------------+--------------+--+
 |               | Frontispiece | Frontispiece |  |
 |               | [^a:s3]      | [^a:s4]      |  |
