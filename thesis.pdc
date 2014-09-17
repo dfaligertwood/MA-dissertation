@@ -39,8 +39,11 @@ The contents are as follows:
 +---------------+---------------+
 | [ms] [d1]     | [ms] [e1]     |
 +---------------+---------------+
-| 
+| Blank Pages   | Blank Pages   |
++---------------+---------------+
 | Insert [^a:1] | Insert [^a:2] |
++---------------+---------------+
+| 
 
 
 In addition to the music, the book is prefaced by a copy of the libretto, again
