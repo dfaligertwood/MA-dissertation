@@ -41,7 +41,7 @@ The contents are as follows:
 +--+--------------+--------------+--+
 |  | Blank Pages  | Blank Pages  |  |
 +--+--------------+--------------+--+
-| \footnotesize | Insert       | Insert       |  |
+|  | Insert       | Insert       |  |
 |  | [^a:s1]      | [^a:s2]      |  |
 +--+--------------+--------------+--+
 |  | Frontispiece | Frontispiece |  |
