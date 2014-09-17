@@ -37,8 +37,8 @@ Both [ms] are by the same copyist, and display a number of clear similarities.
 The contents are as follows:
 
 +----------------+----------------+
-| [ms] [d1]      | [ms] [e1]      |
-+================+================+
++-+-+
++----------------+----------------+
 | Blank Pages    | Blank Pages    |
 +----------------+----------------+
 | Insert [^a:s1] | Insert [^a:s2] |
