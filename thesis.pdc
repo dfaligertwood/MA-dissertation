@@ -43,7 +43,7 @@ description in Table \ref{contents-of-ms}:
 +======================+==============+==============+=======================+
 |                      | Blank Pages  | Blank Pages  |                       |
 +----------------------+--------------+--------------+-----------------------+
-| \footnotesize        | \vfill       | \vfill       | \footnotesize         |
+| \footnotesize        | \vfill       | \vfill       | \footnotesize \vfill  |
 | A 'preface,' by      | Insert       | Insert       | Transcriptions of     |
 | G.W.K., annotated by | \vfill       | \vfill       | entries for Thomas    |
 | G.B.C., presumably   |              |              | Drake in              |
