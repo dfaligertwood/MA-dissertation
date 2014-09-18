@@ -43,9 +43,9 @@ description in Table \ref{contents-of-ms}:
 +======================+==============+==============+=======================+
 |                      | Blank Pages  | Blank Pages  |                       |
 +----------------------+--------------+--------------+-----------------------+
-| \footnotesize        | \thl\thl     | \thl\thl     | \footnotesize \thl    |
+| \footnotesize        | \vfill       | \thl\thl     | \footnotesize \thl    |
 | A 'preface,' by      | Insert       | Insert       | Transcriptions of     |
-| G.W.K., annotated by |              |              | entries for Thomas    |
+| G.W.K., annotated by | \vfill       |              | entries for Thomas    |
 | G.B.C., presumably   |              |              | Drake in              |
 | from the 1912        |              |              | @Hutchinson_1823_i999 |
 | edition.             |              |              | [p. 475] and in       |
