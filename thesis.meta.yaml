@@ -13,4 +13,6 @@ papersize: a4paper
 bibliography: /Users/dfaligertwood/.pandoc/default.json
 toc: true
 toc-depth: 1
+nocite: |
+        @
 ---
