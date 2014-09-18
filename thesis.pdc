@@ -103,6 +103,8 @@ That is, "Donated by Thomas Drake M.A., Vicar of Norham, and once minor canon
 of this Church." The title page for [ms] [e1] has a similar inscription 
 [^a:2:f1], and appears as in Table \ref{ms-e1-title-transcription}
 
+<div class="afterpage">
+
 -----------------------------------    -----------------------------------
       HYMNUS AMBROSIANUS [nl]
 \hspace{1em} [nl]
@@ -122,6 +124,8 @@ DIGNISSIMUSQUE [nl]
 
 Table: Transcription of the title page of [ms] [e1], together with translation. 
 \label{ms-e1-title-transcription}
+
+</div>
 
 [^a:2:f1]: "Liber Ecclesiae Cathedralis Duncton ↩︎  ex Dono Tho Drake A. M. 
 Vicary de Norham & hujus Ecclesiae olim Minoris Canonici"
