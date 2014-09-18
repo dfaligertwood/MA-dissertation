@@ -36,7 +36,7 @@ states that it --- and by extension, [ms] [e1] --- was re-bound in the 19^th^
 century. 
 
 Both [ms] display a number of clear similarities, which can be seen by the 
-description in Table \ref{:
+description in Table \ref{contents-of-ms}:
 
 +----------------------+--------------+--------------+-----------------------+
 |                      | [ms] [d1]    | [ms] [e1]    |                       |
@@ -73,7 +73,7 @@ description in Table \ref{:
 |                      | Music        | Music        |                       |
 +----------------------+--------------+--------------+-----------------------+
 
-Table: Contents of [ms] [d1] and [ms] [e1]
+Table: \label{contents-of-ms} Contents of [ms] [d1] and [ms] [e1]
 
 Importantly, however, both [ms] appear to have been copied by the same person, 
 
