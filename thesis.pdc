@@ -7,55 +7,219 @@ The Manuscript
 Introduction
 ------------
 
-This chapter will give a detailed description of <span
-style="font-variant:small-caps;">ms d1</span>, its history, and location. In
-particular, it will consider the likely copyist and others associated with the
-manuscript, as well as a review of the literature that has previously mentioned
-the manuscript.
+This chapter will give a detailed description of [ms] [d1] and its history, as 
+well as considering the authorship of the [ms]. In particular, it will consider 
+the copyist and provenance of [ms] [d1]. In addition, it will compare certain 
+properties with [ms] [e1], which was donated to the Cathedral at the same time 
+by the same person.
 
-It will begin by considering what information the binding and paper of the
-<span style="font-variant:small-caps;">ms</span> holds, before turning to the
-contents of the <span style="font-variant:small-caps;">ms</span> and any
-interesting aspects thereof. It will then give a review of documentary evidence
-and academic literature referring to the <span
-style="font-variant:small-caps;">ms</span>.
+It will first describe the binding of the [ms], before turning to give a 
+description of its contents. It will then give a review of the documentary 
+evidence and academic literature that refer to the [ms], together with prior 
+conjectures regarding authorship and provenance. I will then give new evidence 
+that the copyist is probably Thomas Drake, the donor of the [ms], and suggest 
+the date and location that the [ms] was copied.
 
 Bibliographic information
 -------------------------
 
-In this section, the bibliographic information of the <span
-style="font-variant:small-caps;">ms</span> will be examined. First, a
-description will be given of the paper and writing, before a review of the
-contents.
+In this section, the bibliographic information of [ms] [d1] and [ms] [e1] will 
+be examined. First, a description will be given of the binding and writing, 
+before a review of the contents.
 
-The <span style="font-variant:small-caps;">ms</span> is attractively bound in
-pig-skin, although the front cover has detached. The binding lacks any
-distinguishing marks other than a shelf-mark on the spine, and dates back to
-the 19^th^ century [^1]. It does not have any attribution. Similarly, the paper
-is of good quality and in good condition.
+Both [ms] are attractively bound in the same manner, although the front cover 
+and one leaf has detached from the spine of [ms] [d1]. The bindings lack 
+distinguishing marks and attributions. However, even if they had, an internal 
+note in [ms] [d1] states that it --- and by extension, [ms] [e1] --- was 
+re-bound in the 19^th^ century. 
 
-[^1]: according to an internal note in the <span
-    style="font-variant:small-caps;">ms</span>, @Anon_1714_i808
+<div class="afterpage">
++----------------------+--------------+--------------+-----------------------+
+|                      | [ms] [d1]    | [ms] [e1]    |                       |
++======================+==============+==============+=======================+
+|                      | Blank Pages  | Blank Pages  |                       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       | \vfill       | \footnotesize \vfill  |
+| A 'preface,' by      | Insert       | Insert       | Transcriptions of     |
+| G.W.K., annotated by | \vfill       | \vfill       | entries for Thomas    |
+| G.B.C., presumably   |              |              | Drake in              |
+| from the 1912        |              |              | @Hutchinson_1823_i999 |
+| edition.             |              |              | [p. 475] and in       |
+|                      |              |              | @Foster_1968_i1031    |
+|                      |              |              | [p. 423] \vfill       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       | \vfill       | \footnotesize         |
+| \vfill               | Frontispiece | Frontispiece | In the same style as  |
+| A watercolour of     | \vfill       | \vfill       | [ms] [d1]. Consists   |
+| the Nativity, signed |              |              | of the libretto in    |
+| with a monogram,     |              |              | mimicked typescript   |
+| probably 'N.D.'      |              |              | with a watercolor     |
+| \vfill               |              |              | border.               |
++----------------------+--------------+--------------+-----------------------+
+|                      | \vfill       | \vfill       |                       |
+|                      | Title Page   | Title Page   |                       |
+|                      | \vfill       | \vfill       |                       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       |              |                       |
+| Handwritten in       | Text of      |              |                       |
+| cursive. 8 pages,    | Libretto     |              |                       |
+| numbered seperately  | \vfill       |              |                       |
+| from the music.      |              |              |                       |
++----------------------+--------------+--------------+-----------------------+
+|                      | Music        | Music        |                       |
++----------------------+--------------+--------------+-----------------------+
 
-The contents of the <span style="font-variant:small-caps;">ms</span> are
-naturally dominated by the music, which takes up the vast majority of the <span
-style="font-variant:small-caps;">ms</span>. It has been very carefully copied,
-with few obvious mistakes, onto staves that were probably drawn with a
-six-staff rostrum.
+Table: \label{contents-of-ms} Contents of [ms] [d1] and [ms] [e1]
 
-In addition to the music, the book is prefaced by a copy of the libretto, again
-written carefully with few obvious errors. The title page is written in a style
-emulating a printed book and lacks any attribution, although it has a
-handwritten note at the top, which reads 'Dono per Thos Drake a.m. Vicarij de
-Norham & hujus Ecclesia olim Minoris Canonici.' The title page is faced by a
-watercolour illustrating the nativity, which is signed with a monogram, likely
-for the letters 'ND.'
+</div>
 
-It is the watercolour fascia which is particularly interesting; together with
-the information on donor and other sources, it provides not only a likely
-copyist, but gives information on the probable dates that it was copied. This
-will be the subject of the next chapter; however, a brief review of this will
-be in the next section.
+Both [ms] display a number of clear similarities, which can be seen by the 
+description in Table \ref{contents-of-ms}. Most importantly, both [ms] appear 
+to have been copied in the same hand, by a single individual. However, it is my 
+belief --- which will be discussed in the final section of this chapter --- 
+that the frontispieces were not illustrated by the copyist. Before we address 
+the identity of the copyist and illustrator, first let us consider what 
+information can be gleaned from the title pages of the texts. First, [ms] 
+[d1]:
+
+<div class="center">
+MESSIAH. A [nl]
+*Christ-Mass [nl] Song* [nl]
+For [nl]
+Voices [nl]
+and [nl]
+Instruments [nl]
+</div>
+
+As can be seen, the title page does not identify the copyist, composer, or 
+librettist. However, an inscription at the top of the title page reads:
+
+<div class="center">
+"Dono Tho^s^ Drake A. M. Vicarij de Norham & hujus Ecclesia olim Minoris 
+Canonici"
+</div>
+
+That is, "Donated by Thomas Drake [ma], Vicar of Norham, and once minor canon 
+of this Church." The title page for [ms] [e1] has a similar inscription 
+[^a:2:f1], and appears as in Table \ref{ms-e1-title-transcription}. This has a 
+clear attribution to Anthony Alsop, who undoubtedly wrote the text to [ms] 
+[e1], a paraphrase of the Te Deum in Sapphic stanzas. [^a:2:f2] However, it is 
+clear that the music is *not* attributed to Mr. Alsop.
+
+<div class="afterpage">
+
+-----------------------------------    -----------------------------------
+      HYMNUS AMBROSIANUS [nl]              THE AMBROSIAN HYMN [nl]
+\hspace{1em} [nl]                                  \hspace{1em}[nl]
+Musarum Omnium [nl]                        Muse of All
+nec non [nl]                               
+*ÆDIS CHRISTI* [nl]
+apud [nl]
+OXONIENSES [nl]
+\hspace{1em} [nl]
+ALUMNUS [nl]                               Alumnus
+olim [nl]                                  once
+EXIMIUS [nl]                               the extraordinary
+DIGNISSIMUSQUE [nl]                        and most worthy
+*Ant. Alsop*                               *Anthony Alsop*
+
+-----------------------------------    -----------------------------------
+
+Table: Transcription of the title page of [ms] [e1], together with translation. 
+\label{ms-e1-title-transcription}
+
+</div>
+
+[^a:2:f1]: "Liber Ecclesiae Cathedralis Duncton \newline ex Dono Tho Drake A. 
+M. Vicary de Norham & hujus Ecclesiae olim Minoris Canonici"
+
+	"Book of the Cathedral Church of Durham; \newline From the Donation of 
+	Thomas Drake [ma], Vicar of Norham and formerly Minor Canon of this 
+	Church."
+
+[^a:2:f2]: The text appears in @Alsop_1752_i1058, p. 1-4
+
+After the title pages, [ms] [d1] has a handwritten copy of the full text of the 
+libretto, in a clear cursive hand. Interestingly, the pages of this copy are 
+numbered in arabic numerals, but in a separate series to the music; that is, 
+the libretto is numbered 1--8, while the music is numbered 1--100. This is 
+surprising, as even then one would expect for there to be a unique sequence of 
+arabic numerals throughout a book, and it may suggest that the libretto was 
+written separately from the music and only later bound with it. However, the 
+music is undoubtedly texted in the same hand as the libretto, as are all the 
+instrument names and dynamics, so this seems unlikely.
+
+As we have seen, [ms] [d1] raises a number of questions regarding the identity 
+of the composer and copyist.
+
+Prior Literature
+----------------
+
+There is relatively little literature directly concerning [ms] [d1], perhaps 
+because of the absence of publication in a complete form. Although Breitkopf 
+and Härtel published a piano arrangement by Otto Taubmann in 1912 under the 
+title of "An Anonymous Messiah" [@Fleming_2009_i1048, p. 277, fn. 104], it does 
+not seem to have been widely distributed [^a:3:f1], and I have been unable to 
+procure a copy. However, the preface to the edition, probably written by George 
+William Kitchin [^a:3:f2], was available to me in [ms] form, and will be the 
+first item I will review here [^a:3:f3].
+
+[^a:3:f1]: A search for the edition in WorldCat returns two copies; Copac finds
+	 one more in the United Kingdom. [@OCLC_i1099; @JISC_i1081]
+
+[^a:3:f2]: This attribution is made in the [@British_i1141,] entry for 
+[@Taubmann_1912_i1142].
+
+[^a:3:f3]: The [ms] of his preface is glued to a fly-leaf in 
+[@Anon_1714_1747_i808]; see [@Kitchin_1911_i1152]
+
+The preface makes a number of conjectures regarding the origin of [ms] [d1]. 
+First, it suggests that [ms] [d1] and [e1] were donated in 1720 on the occasion 
+of Thomas Drake being appointed to the vicarage of Norham, which has been 
+disproved by @Crosby_1974_i1003 [p. 419] based on evidence in [sc]a.iv.32 [ec];
+[@Anon_1628_1821_i1016, f. 87] this conjecture was made based on the 
+inscriptions on the title pages noted above.
+
+Kitchin then continues to claim that Anthony Alsop wrote the libretti for both 
+[ms] [e1] *and* [ms] [d1]. While it is clear that he is correct for [ms] [e1], 
+it does not follow that he is right about [ms] [d1]: Anthony Alsop was most 
+well-known for his Latin verse, writing little in English [@Money_2004_i1235; I 
+have only found English verse by him in @Dodsley_1758_i1146. ***FIND PAGE NUMBERS***], and the libretto of [ms] [d1] does not appear anywhere in his published works.
+
+Based on the conjecture that Alsop wrote the libretto for *Messiah,* Kitchin 
+suggests that the piece must have been written prior to 1715, when Alsop was 
+made a prebendary of Winchester. However, this seems *extremely* unlikely: 
+there are no records of the Corelli concerto that this piece is based on having 
+appeared in England prior to 1715. *If* Alsop did write the libretto to 
+*Messiah,* it seems he must have done so while prebendary of Winchester --- not 
+entirely impossible, as many clergymen of the period held benefices without 
+being physically present in them --- or in an extremely short period of time 
+between 1714 and 1715.
+
+Kitchin continues to conjecture about the composer. In particular, he suggests 
+'It tempts us to think that Corelli himself, who was still alive in 1713, might 
+have ~~been the author~~ had a hand in it.' [@Kitchin_1911_i1152] This seems 
+highly unlikely; Corelli stayed with Cardinal Ottoboni's household, and within 
+Italy, right up until his death in January 1713 [@Talbot_i1106, sec. 3].
+
+The rest of Kitchin's Preface is concerned with whether or not Handel may have 
+come into contact with this _Messiah_. Regardless of whether or not he did, we 
+know that it was Charles Jennens who proposed the composition of Handel's 
+_Messiah_, so our interest should rather be in that direction. It is perfectly 
+possible that Jennens came into contact with this text --- in the next chapter 
+we shall see that it is not only *possible* but *likely* that Jennens came into 
+contact with the text --- but the two are so dissimilar as for any contact to 
+be barely worth mentioning. Certainly, Jennens did not mention it in any of his 
+letters.
+
+After Kitchin's preface, I should like to turn to a rather scathing review of 
+the [@Taubmann_1912_i1142] edition, published in 1931 and written by C.H.
+@Kitson_1931_i1005. In spite of Kitson's view
+
+Copyist
+-------
+
+
 
 Background
 ==========
@@ -67,17 +231,14 @@ The bulk of this chapter will consist of a transcription of the text of the
 libretto, together with editorial comments and descriptions of the 
 corresponding music.
 
-\newpage
+\pagebreak
 
-1^st^ \mvmt: _The Night was Dark and Silent_
+1^st^ [mt]: *The Night was Dark and Silent*
 ------------------------------------------
-
-Recitativo scored for Basso Solo\ed and Continuo\ed.\
-Key Signature: G. Time: \lilyTimeC{}. 17 bars in length.
 
 ### Text
 
-> The Night was dark and silent; when [^1:2]\
+> The Night was dark and silent; when [^1:2] \rln \
 > And [^1:3], both faithful Shepherds met,\
 > As [^1:4] wont to meet each other; and watch their flocks,\
 > Which lay about them cluster’d: when an Angel\
@@ -114,18 +275,16 @@ Key Signature: G. Time: \lilyTimeC{}. 17 bars in length.
 
 ### Music
 
+Recitativo scored for Basso Solo\ed and Continuo\ed.\
+Key Signature: G. Time: \lilyTimeC{}. 17 bars in length.
+
 This first movement of the piece provides a good example of the word-painting 
 that the composer uses throughout. In particular, it is 
 
 \newpage
 
-2^nd^ \mvmt: _Behold! behold! ye Sons of Earth._
-----------------------------------------------
-
-Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
-\continuo\ed \
-Key Signature: D. Time: \lilyTimeC{} and \lilyTimeSignature{3}{4}. 88 bars in 
-length including da capo; 59 excluding da capo.
+2^nd^ [mt]: *Behold! behold! ye Sons of Earth.*
+-----------------------------------------------
 
 ### Text
 
@@ -165,17 +324,19 @@ length including da capo; 59 excluding da capo.
 
 ### Music
 
+Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
+\continuo\ed \
+Key Signature: D. Time: \lilyTimeC{} and \lilyTimeSignature{3}{4}. 88 bars in 
+length including da capo; 59 excluding da capo.
+
 \newpage
 
-3^rd^ \mvmt: *Scarce had the Angel clos'd his Song*
+3^rd^ [mt]: *Scarce had the Angel clos'd his Song*
 -------------------------------------------------
-
-Recitativo scored for \tenore{} solo\ed{} with \continuo\ed.\
-Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
 
 ### Text
 
-> Scarce had the Angel clos'd his Song, when strait \rln [^3:b1]\
+> Scarce [^3:b1] had the Angel clos'd his Song, when strait \rln \
 > Th'Adamantin Doors of Heav'n flew open\
 > In wide Expanse; from whenceforth issu'd\
 > A Quire of Cherubim, in Consort join'd\
@@ -188,18 +349,17 @@ Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
 
 ### Music
 
+Recitativo scored for \tenore{} solo\ed{} with \continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
+
 \newpage
 
-4^th^ \mvmt, Chorus of Angels: *Glory to God, Supreme above*
+4^th^ [mt], Chorus of Angels: *Glory to God, Supreme above*
 ----------------------------------------------------------
-
-Chorus scored for SATB Chorus\ed with \tromba{}, \violinoI\andII, \viola, and 
-\continuo\ed.\
-Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
 
 ### Text
 
-> | Glory to God, supreme above, [^4:b1]  ^[~ a]
+> | Glory to God, supreme above, [^4:b1]  ^[~ a] \rln
 > |   To Man Acceptance, and free Grace.  ^[~ b]
 > | Among the Sons of human Race,         ^[~ b]
 > | Be Peace, and Everlasting Love.       ^[~ a]
@@ -210,13 +370,14 @@ Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
 
 ### Music
 
+Chorus scored for SATB Chorus\ed with \tromba{}, \violinoI\andII, \viola, and 
+\continuo\ed.\
+Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
+
 \newpage
 
-5^th^ \mvmt: *To Heav'n return'd the Angels*
+5^th^ [mt]: *To Heav'n return'd the Angels*
 ------------------------------------------
-
-Recitativo scored for \treble{} solo\ed with \continuo\ed.\
-Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
 
 ### Text
 
@@ -233,49 +394,93 @@ Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
 
 ### Music
 
+Recitativo scored for \treble{} solo\ed with \continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
+
 \newpage
 
-6^th^ \mvmt: *The time's fulfill'd, which Bards of Old*
+6^th^ [mt]: *The time's fulfill'd, which Bards of Old*
 -----------------------------------------------------
+
+### Text
+
+> | The time's fulfill'd, which Bards of old                        ^[~ a] \rln
+> |     In Mystic Phrase foretold;                                  ^[~ a]
+> | A Branch from Jesse's Root shou'd spring                        ^[~ b]
+> |     A Virgin shou'd bring forth a Son                           ^[~ x]
+> | The great Emmanuel our King.                                    ^[~ b]
+
+> | All hail to this auspicious Morn!                               ^[~ d]
+> |       For lo! **Messiah's** born, 	                            ^[~ d]
+> | And Man's Redemption's now begun.                               ^[~ x]
+
+\newpage
+
+### Music
 
 Da capo Aria scored for Lycidas with \travers{} and \continuo\ed.\
 Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61 
 bars including da capo; 33 bars excluding da capo.
 
+\newpage
+
+7^th^ [mt]: *These are the Shepherd's Golden days*
+-------------------------------------------------
+
 ### Text
 
-> | The time's fulfill'd, which Bards of old \rln ^[~ a]
-> |     In Mystic Phrase foretold; 		  ^[~ a]
-> | A Branch from Jesse's Root shou'd spring 	  ^[~ b]
-> |     A Virgin shou'd bring forth a Son 	  ^[~ c]
-> | The great Emmanuel our King. 		  ^[~ b]
-> | All hail to this auspicious Morn! 		  ^[~ d]
-> |       For lo! **Messiah's** born, 		  ^[~ d]
-> | And Man's Redemption's now begun. 		  ^[~ c]
+> | These are the Shepherd's Golden days                            ^[~ a] \rln
+> |   When Innocence protects the Plains:                           ^[~ b]
+> | Now *Christ* his equal Sceptre sways                              ^[~ a]
+> |   O'er mighty Kings, and humble Swains.                         ^[~ b]
+
+> | Let noisy Strife and Discord cease:                             ^[~ c]
+> |       no spiteful Jarrs,                                        ^[~ d]
+> |       no bloody Wars;                                           ^[~ d]
+> |     For *Christ's* the Prince of Peace.                           ^[~ c]
 
 \newpage
 
 ### Music
-
-\newpage
-
-7^th^ \mvmt: _These are the Shepherd's Golden days_
--------------------------------------------------
 
 Da capo Aria scored for Corydon with \traversI\andII{} and \continuo\ed.\
 Key Signature: G. Time: \lilyTimeSignature{3}{8}, _Vivace_. 169 bars including 
 da capo; 97 bars excluding da capo.
 
+\newpage
+
+8^th^ [mt], An Alternat Pastoral for Shepherd's Boys: *The Shepherd of our Souls is here*
+-----------------------------------------------------------------------------------------
+
 ### Text
 
-> | These are the Shepherd's Golden days \rln 	^[~ a]
-> |   When Innocence protects the Plains: 	^[~ b]
-> | Now *Christ* his equal Sceptre sways 	^[~ a]
-> |   O'er mighty Kings, and humble Swains. 	^[~ b]
-> | Let noisy Strife and Discord cease: 	^[~ c]
-> |       no spiteful Jarrs, 			^[~ d]
-> |       no bloody Wars; 			^[~ d]
-> |     For *Christ's* the Prince of Peace. 	^[~ c]
+> | The Shepherd of our Souls is here;                              ^[~ a] \rln
+> |   We bring the Tribute of our Praise:                           ^[~ b]
+> | To hail his Birth we all appear,                                ^[~ a]
+> |   Exult, and chearful voices raise.                             ^[~ b]
+
+> | Carmel with sweetest Flow'rs shall spring,              [^8:b2] ^[~ c]
+> |   And Lebanon with Transport nod.                               ^[~ d]
+> | Sharon shall all its Fragrance bring,                           ^[~ c]
+> |   And thus will Joy confess the God.                            ^[~ d]
+
+> | No more shall baneful Weeds be seen,                            ^[~ e]
+> |   Nor hurtful Thorns molest the ground                          ^[~ f]
+> | But stately Pines, each shapely Green                           ^[~ e]
+> |  And odrous Myrtles shall abound.                               ^[~ f]
+
+> | Loving shall Wolves with Lambkins feed,                 [^8:b1] ^[~ g]
+> |   The Kid and Leopard fondly meet;                              ^[~ h]
+> | Boys shall in play the Tygers lead,                             ^[~ g]
+> |   And harmless Snakes shall lick their feet.                    ^[~ h]
+
+> | In parched Lands shall Springs arise;                           ^[~ j]
+> |   Our Flocks the sweetest Verdure eat:                          ^[~ k]
+> | The Swains shall see this with surprise;                        ^[~ j]
+> |   But Dust shall be the Serpent's meat.                         ^[~ k]
+
+[^8:b1]: \> isaiah 11:6
+[^8:b2]: \> isaiah 35:2
 
 \newpage
 
@@ -283,36 +488,167 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-8^th^ \mvmt, An Alternat Pastoral for Shepherd's Boys: *The Shepherd of our Souls is here*
------------------------------------------------------------------------------------------
+9^th^ [mt]: *Christ is the Shepherd of us all*
+---------------------------------------------
 
 ### Text
 
-I.    > | The Shepherd of our Souls is here; \rln 	^[~ a]
-      > |   We bring the Tribute of our Praise: 	^[~ b]
-      > | To hail his Birth we all appear, 		^[~ a]
-      > |   Exult, and chearful Voices raise. 		^[~ b]
+> | Christ is the Shepherd of us all; [^9:b1]                       ^[~ a] \rln
+> |   He will his wand'ring Sheep direct;                           ^[~ b]
+> | The weak ones to his Bosom call,                                ^[~ a]
+> |   and those that are with young, protect.                       ^[~ b]
 
-II.   > | Carmel with sweetest Flow'rs shall spring,    ^[~ c]
-      > |   And Lebanon with Transport nod.             ^[~ d]
-      > | Sharon shall all its Fragrance bring, 	^[~ c]
-      > |   And thus will Joy confess the God.          ^[~ d]
+[^9:b1]: \> isaiah 40:11
 
-III.  > | No more shall baneful Weeds be seen, 		^[~ e]
-      > |   Nor hurtful Thorns molest the ground        ^[~ f]
-      > | But stately Pines, each shapely Green 	^[~ e]
-      > |  And odrous Myrtles shall abound.             ^[~ f]
+\newpage
 
-IV.   > | Loving shall Wolves with Lambkins feed, 	^[~ g]
-      > |   The Kid and Leopard fondly meet;            ^[~ h]
-      > | Boys shall in play the Tygers lead, 		^[~ g]
-      > |   And harmless Snakes shall lick their feet.  ^[~ h]
+### Music
 
-V.    > | In parched Lands shall Springs arise; 	^[~ j]
-      > |   Our Flocks the sweetest Verdure eat:        ^[~ k]
-      > | The Swains shall see this with surprise;      ^[~ j]
-      > |   But Dust shall be the Serpent's meat.       ^[~ k]
+\newpage
 
+10^th^ [mt]: *But lo! a bright and wond'rous Star arose*
+-------------------------------------------------------
+
+### Text
+
+> But lo! a bright and wond'rous Star arose, \rln \
+> To lead three Royal Magi from the East,\
+> Melchior, and Casper, and Balthazar;\
+> Who waited long the rising of Messiah.\
+> In solemn Pomp they came: the friendly Star,\
+> That travel'd thro the Skies, conducting them,\
+> Fix'd to a point, directing where the Babe\
+> They sought, was laid: in Adoration\
+> Down they fell; their precious Treasures open'd;\
+> And thus, by turns, their humble Praises sung.
+
+\newpage
+
+### Music
+
+\newpage
+
+11^th^ [mt]: *Sov'raign of Kings! this Gold I bring*
+---------------------------------------------------
+
+### Text
+
+> |   Sov'raign of Kings! this Gold I bring,                        ^[~ a] \rln
+> |   A Tribute to my God and King:                                 ^[~ a]
+> |     Devoutly at thy Feet                                        ^[~ b]
+> |     My self and Crown I lay.                                    ^[~ c]
+
+> |       For sure 'tis meet,                                       ^[~ b]
+> | That Kings shou'd Thee, by whom they raign, obey.               ^[~ c]
+
+\newpage
+
+### Music
+
+\newpage
+
+12^th^ [mt]: *Vouchsafe t'accept, O great High Priest!*
+------------------------------------------------------
+
+### Text
+
+> | Vouchsafe t'accept, O great High Priest!                        ^[~ a] \rln
+> |   This Incense, Emblem of our Pray'r:                           ^[~ b]
+> | Present it at the Throne of Grace:                              ^[~ a]
+> |   For what Thou offer'st, God will hear.                        ^[~ b]
+
+> | Aaron's Priesthood must cease to be;                            ^[~ c]
+> |   But Thine's to all Eternity.                                  ^[~ c]
+
+\newpage
+
+### Music
+
+\newpage
+
+13^th^ [mt]: *For Thee our Aromatic Fields*
+------------------------------------------
+
+### Text
+
+> | For Thee our Aromatic Fields                                    ^[~ a] \rln
+> |   In gay Profusion grow:                                        ^[~ b]
+> | For Thee her Gems Saban yeilds,                                 ^[~ a]
+> |   And Groves with Spices glow.                                  ^[~ b]
+
+> | This Myrrh, Good Lord, accept from me;                          ^[~ c]
+> | As all our Myrrh shou'd drop for Thee.                          ^[~ c]
+
+\newpage
+
+### Music
+
+\newpage
+
+14^th^ [mt], Chorus of the Magi: *Thy boundless and eternal Pow'r*
+-----------------------------------------------------------------
+
+### Text
+
+> | Thy boundless and eternal Pow'r                                 ^[~ x] \rln
+> | Both Kings and Subjects shall adore.                            ^[~ x]
+
+\newpage
+
+### Music
+
+\newpage
+
+15^th^ [mt]: *But Mary wonder'd at these things*
+-----------------------------------------------
+
+### Text
+
+> But Mary wonder'd at these things; and while        \rln \
+> She mus'd, half bending o'er the charming Infant         \
+> Enraptur'd, a Fire of Extatic Joy                        \
+> Kindled in Her Soul; which from Her soft Tongue          \
+> Came forth melodious. Angels on the Wing                 \
+> Attentive hung; and, list'ning to Her Voice,             \
+> Touch'd with the gentlest hands their tuneful Minstrels, \
+> While thus she sung her Eucharistic Hymn.
+
+\newpage
+
+### Music
+
+\newpage
+
+16^th^ [mt]: *My Soul shall glory in the Lord*
+---------------------------------------------
+
+### Text
+
+> |   My Soul shall glory in the Lord;                              ^[~ a] \rln
+> |   My Spirit triumph in His Praise:                              ^[~ b]
+> |  For God to me he's deign'd t'afford                            ^[~ a]
+> |     Peculiar Grace, and highly raise.                           ^[~ b]
+
+> | Ages to come shall aggrandize my Fame:                          ^[~ c]
+> | But Holy, Holy, Holy is His Name.                               ^[~ c]
+
+\newpage
+
+### Music
+
+\newpage
+
+17^th^ [mt], *Grand Chorus: This Festival demands a Joy*
+-------------------------------------------------------
+
+### Text
+
+> |   This Festival demands a Joy,                                ^[~ a] \rln
+> |   Which shou'd each grateful Tongue employ.                   ^[~ a]
+> |   Angels in Heav'n, and Men on Earth                          ^[~ b]
+> |   Shall both in Harmony combine,                              ^[~ c]
+> |   To celebrate Messiah's Birth;                               ^[~ b]
+> | And All in One Grand Hallelujah join.                         ^[~ c]
 
 \newpage
 
