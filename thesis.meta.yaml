@@ -1,7 +1,7 @@
 ---
 title: 'Durham Cathedral ms d1'
 author: 'd f a ligertwood'
-csl: chicago-note-bibliography.csl
+csl: european-union-interinstitutional-style-guide.csl
 documentclass: scrbook
 classoption:
         - 'headings=twolinechapter'
