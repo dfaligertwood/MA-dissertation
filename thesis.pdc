@@ -352,7 +352,7 @@ features.
 
 
 
-[^b:3:f1]: See p. \autopageref*{drake-not-composer}
+[^b:3:f1]: See \autopageref*{drake-not-composer}
 
 Thomas Drake
 ============
