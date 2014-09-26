@@ -1,6 +1,6 @@
 ---
-title: 'Durham Cathedral ms d1'
-author: 'd f a ligertwood'
+title: '<span style="font-variant:small-caps;">Durham Cathedral ms d1</span>'
+author: '<span style="font-variant:small-caps;">d f a ligertwood</span>'
 csl: chicago-annotated-bibliography.csl
 documentclass: scrbook
 classoption:
@@ -8,7 +8,7 @@ classoption:
         - 'nochapterprefix'
 mainfont: EB Garamond
 mainfontoptions: 'CharacterVariant=11'
-fontsize: 10pt
+fontsize: 11pt
 papersize: a4paper
 bibliography: /Users/dfaligertwood/.pandoc/default.json
 toc: true
