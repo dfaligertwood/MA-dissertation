@@ -8,7 +8,7 @@ classoption:
         - 'nochapterprefix'
 mainfont: EB Garamond
 mainfontoptions: 'CharacterVariant=11'
-fontsize: 12pt
+fontsize: 11pt
 papersize: a4paper
 bibliography: /Users/dfaligertwood/.pandoc/default.json
 toc: true
