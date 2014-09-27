@@ -1,2 +1,8 @@
 <#include "introduction.pdc">
-<#include "
+<#include "lit_review.pdc">
+<#include "manuscript.pdc">
+<#include "biography.pdc">
+<#include "analysis.pdc">
+<#include "review.pdc">
+<#include "transcription.pdc">
+<#include "bibliography.pdc">
