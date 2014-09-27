@@ -1,0 +1,8 @@
+<<[introduction.pdc]
+<<[lit_review.pdc]
+<<[manuscript.pdc]
+<<[biography.pdc]
+<<[analysis.pdc]
+<<[review.pdc]
+<<[transcription.pdc]
+<<[bibliography.pdc]
