@@ -1,4 +1,4 @@
-<#include "thesis.meta.yaml">
+"thesis.meta.yaml">
 <#include "introduction.pdc">
 <#include "lit_review.pdc">
 <#include "manuscript.pdc">
