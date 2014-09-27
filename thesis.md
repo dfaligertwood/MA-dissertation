@@ -15,5 +15,6 @@ drwxr-xr-x   7 dfaligertwood  staff   238B 16 Sep 16:39 notes
 
 <<[introduction.pdc]
 <<[lit_review.pdc]
+<<[manuscript.pdc]
 <<[analysis.pdc]
 <<[
