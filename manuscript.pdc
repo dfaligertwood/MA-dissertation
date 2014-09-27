@@ -1,0 +1,203 @@
+The Manuscript
+==============
+
+In order to understand this music, I think it is important to understand the 
+culture that the music was written in. In order to get a grasp on this, this 
+chapter will concentrate on the manuscript as an artifact, rather than as 
+music. In this chapter, I will first give a detailed description of [ms] [d1], 
+as well as comparing it to [ms] [e1], donated at the same time by Thomas Drake. 
+As both of these [ms] appear to have been relatively new at the time of 
+donation, and they have remained in the Cathedral Library ever since, they have 
+a relatively short history; however, after describing these [ms], I will 
+consider the question of who produced them. As seen in the literary review, 
+there has been no scholarship on this question, and in the second section I 
+will draw attention to new evidence suggesting that the copyist was the donor, 
+Thomas Drake.
+
+Having shown this, I will then continue in the next chapter to provide a 
+biography of Thomas Drake, identifying probably points in his life when he 
+would have been likely to copy this [ms]. First, however, I will turn to the 
+manuscript.
+
+Bibliographic information
+-------------------------
+
+In this section, the bibliographic information of [ms] [d1] and [ms] [e1] will 
+be examined. First, a description will be given of the binding and writing, 
+before a review of the contents.
+
+Both [ms] are attractively bound in the same manner, although the front cover 
+and one leaf has detached from the spine of [ms] [d1]. The bindings lack 
+distinguishing marks and attributions. However, even if they had, an internal 
+note in [ms] [d1] states that it --- and by extension, [ms] [e1] --- was 
+re-bound in the 19^th^ century. 
+
+<div class="afterpage">
++----------------------+--------------+--------------+-----------------------+
+|                      | [ms] [d1]    | [ms] [e1]    |                       |
++======================+==============+==============+=======================+
+|                      | Blank Pages  | Blank Pages  |                       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       | \vfill       | \footnotesize \vfill  |
+| A 'preface,' by      | Insert       | Insert       | Transcriptions of     |
+| G.W.K., annotated by | \vfill       | \vfill       | entries for Thomas    |
+| G.B.C., presumably   |              |              | Drake in              |
+| from the 1912        |              |              | @Hutchinson_1823_i999 |
+| edition.             |              |              | [p. 3:475] and in     |
+|                      |              |              | @Foster_1968_i1031    |
+|                      |              |              | [p. 423] \vfill       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       | \vfill       | \footnotesize         |
+| \vfill               | Frontispiece | Frontispiece | In the same style as  |
+| A watercolour of     | \vfill       | \vfill       | [ms] [d1]. Consists   |
+| the Nativity, signed |              |              | of the libretto in    |
+| with a monogram,     |              |              | mimicked typescript   |
+| probably 'N.D.'      |              |              | with a watercolor     |
+| \vfill               |              |              | border.               |
++----------------------+--------------+--------------+-----------------------+
+|                      | \vfill       | \vfill       |                       |
+|                      | Title Page   | Title Page   |                       |
+|                      | \vfill       | \vfill       |                       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       |              |                       |
+| Handwritten in       | Text of      |              |                       |
+| cursive. 8 pages,    | Libretto     |              |                       |
+| numbered seperately  | \vfill       |              |                       |
+| from the music.      |              |              |                       |
++----------------------+--------------+--------------+-----------------------+
+|                      | Music        | Music        |                       |
++----------------------+--------------+--------------+-----------------------+
+
+Table: \label{contents-of-ms} Contents of [ms] [d1] and [ms] [e1]
+
+</div>
+
+Both [ms] display a number of clear similarities, which can be seen by the 
+description in Table \ref{contents-of-ms}. Most importantly, both [ms] appear 
+to have been copied in the same hand, by a single individual. However, it is my 
+belief --- which will be discussed in the final section of this chapter --- 
+that the frontispieces were not illustrated by the copyist. Before we address 
+the identity of the copyist and illustrator, first let us consider what 
+information can be gleaned from the title pages of the texts. First, [ms] 
+[d1]:
+
+<div class="center">
+MESSIAH. A [nl]
+*Christ-Mass [nl] Song* [nl]
+For [nl]
+Voices [nl]
+and [nl]
+Instruments [nl]
+</div>
+
+As can be seen, the title page does not identify the copyist, composer, or 
+librettist. However, an inscription at the top of the title page reads:
+
+<div class="center">
+"Dono Tho^s^ Drake A. M. Vicarij de Norham & hujus Ecclesia olim Minoris 
+Canonici" \ref{title-page-inscription}
+</div>
+
+That is, "Donated by Thomas Drake [ma], Vicar of Norham, and once minor canon 
+of this Church." The title page for [ms] [e1] has a similar inscription 
+[^b:1:f1], and appears as in Table \ref{ms-e1-title-transcription}. This has a 
+clear attribution to Anthony Alsop, who undoubtedly wrote the text to [ms] 
+[e1], a paraphrase of the Te Deum in Sapphic stanzas. [^b:1:f2] However, it is 
+clear that the music is *not* attributed to Mr. Alsop.
+
+[^b:1:f1]: "Liber Ecclesiae Cathedralis Duncton \newline ex Dono Tho Drake A. 
+M. Vicary de Norham & hujus Ecclesiae olim Minoris Canonici"
+
+	"Book of the Cathedral Church of Durham; \newline From the Donation of 
+	Thomas Drake [ma], Vicar of Norham and formerly Minor Canon of this 
+	Church."
+
+[^b:1:f2]: The text appears in @Alsop_1752_i1058, p. 1-4
+
+After the title pages, [ms] [d1] has a handwritten copy of the full text of the 
+libretto, in a clear cursive hand. Interestingly, the pages of this copy are 
+numbered in arabic numerals, but in a separate series to the music; that is, 
+the libretto is numbered 1--8, while the music is numbered 1--100. This is 
+surprising, as even then one would expect for there to be a unique sequence of 
+arabic numerals throughout a book, and it may suggest that the libretto was 
+written separately from the music and only later bound with it. However, the 
+music is undoubtedly texted in the same hand as the libretto, as are all the 
+instrument names and dynamics, so this seems unlikely.
+
+<div class="afterpage">
+
+-----------------------------------    -----------------------------------
+      HYMNUS AMBROSIANUS [nl]              THE AMBROSIAN HYMN [nl]
+\hspace{1em} [nl]                                  \hspace{1em}[nl]
+Musarum Omnium [nl]                        Muse of All
+nec non [nl]                               
+*ÆDIS CHRISTI* [nl]
+apud [nl]
+OXONIENSES [nl]
+\hspace{1em} [nl]
+ALUMNUS [nl]                               Alumnus
+olim [nl]                                  once
+EXIMIUS [nl]                               the extraordinary
+DIGNISSIMUSQUE [nl]                        and most worthy
+*Ant. Alsop*                               *Anthony Alsop*
+
+-----------------------------------    -----------------------------------
+
+Table: Transcription of the title page of [ms] [e1], together with translation. 
+\label{ms-e1-title-transcription}
+
+</div>
+
+As we have seen, [ms] [d1] raises a number of questions regarding the identity 
+of the composer and copyist, and there have been multiple attempts to explain 
+its unusual status. In the next section, we will cover new evidence that Thomas 
+Drake, the donor, is the copyist.
+
+Copyist
+-------
+
+\label{copyist}
+
+We know from the title-page attributions and from [sc]ms a.iv.32 [ec] that the 
+donor was Thomas Drake, we cannot be certain that he was the composer 
+[^b:3:f1]. However, it *is* possible to investigate if he is the copyist, if we 
+can find a sample of music known to be written by him. Alternatively, a sample 
+of handwriting would be sufficient to show that he copied the text of the [ms]. 
+Given that *Messiah* does not appear to have been widely distributed, it is 
+likely that the whole [ms] was copied by one individual, rather than separate 
+individuals copying each line.
+
+Such a sample of handwriting exists. Thomas Drake's eldest son, also Thomas 
+Drake, followed his father into the clergy. He was educated at Corpus Christi 
+College in Oxford University, and ordained as a Deacon and as a Priest at 
+Durham Cathedral. Fortunately, his ordination papers survive. Among the papers 
+for his ordination to the diaconate is a letter from the elder Thomas Drake to
+the then Bishop of Durham, Edward Chandler [@Drake_1746_i1045].
+
+This letter simply states that there was a position available for the younger 
+Thomas Drake as a curate in the parish of Norham. Most importantly, however, 
+the handwriting of Drake is clearly similar to that of the copyist, with both 
+writing the letters 'd,' 'N' and 'F,' among others, in quite distinctive 
+manners.
+
+In addition to this, I should now like to turn to the question of the 
+frontispiece. As noted in table \ref{contents-of-ms}[^b:3:f2], this 
+frontispiece has a monogram, probably of the letters 'ND.' I will go into more 
+detail about Thomas Drake's family tree in Chapter 4, but his father, brother, 
+son, and nephew were all called Nathan Drake. Interestingly, his nephew was a 
+noted painter, particularly well known for designing engravings. However, he 
+was born in 1726, so would probably be too young to have painted the 
+frontispiece [@Ingamells_2004_i1153]. Instead, it is more likely that the 
+frontispiece was painted by Thomas Drake's brother, although I have not found 
+any surviving paintings of his. 
+
+[^b:3:f2]: On \autopageref*{contents-of-ms}.
+
+These two facts give a strong case that the copyist of [ms] [d1] was Thomas 
+Drake, together with his brother. If the Nanki copy is also by Drake, then 
+together with [sc]a.iv.32 [ec] this would provide strong evidence that Drake 
+was the composer. At this point, it seems most useful to give a biography of 
+Thomas Drake and a description of his background.
+
+[^b:3:f1]: See \autopageref*{drake-not-composer}
+
