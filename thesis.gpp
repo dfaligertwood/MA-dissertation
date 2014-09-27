@@ -1,9 +1,9 @@
-"thesis.meta.yaml">
-<#include "introduction.pdc">
-<#include "lit_review.pdc">
-<#include "manuscript.pdc">
-<#include "biography.pdc">
-<#include "analysis.pdc">
-<#include "review.pdc">
-<#include "transcription.pdc">
-<#include "bibliography.pdc">
+"thesis.meta.yaml"
+"introduction.pdc"
+"lit_review.pdc"
+"manuscript.pdc"
+"biography.pdc"
+"analysis.pdc"
+"review.pdc"
+"transcription.pdc"
+"bibliography.pdc"
