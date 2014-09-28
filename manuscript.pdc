@@ -163,3 +163,43 @@ Thomas Drake and a description of his background.
 
 [^b:3:f1]: See \autopageref*{drake-not-composer}
 
+<div class="afterpage">
++----------------------+--------------+--------------+-----------------------+
+|                      | [ms] [d1]    | [ms] [e1]    |                       |
++======================+==============+==============+=======================+
+|                      | Blank Pages  | Blank Pages  |                       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       | \vfill       | \footnotesize \vfill  |
+| A 'preface,' by      | Insert       | Insert       | Transcriptions of     |
+| G.W.K., annotated by | \vfill       | \vfill       | entries for Thomas    |
+| G.B.C., presumably   |              |              | Drake in              |
+| from the 1912        |              |              | @Hutchinson_1823_i999 |
+| edition.             |              |              | [p. 3:475] and in     |
+|                      |              |              | @Foster_1968_i1031    |
+|                      |              |              | [p. 423] \vfill       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       | \vfill       | \footnotesize         |
+| \vfill               | Frontispiece | Frontispiece | In the same style as  |
+| A watercolour of     | \vfill       | \vfill       | [ms] [d1]. Consists   |
+| the Nativity, signed |              |              | of the libretto in    |
+| with a monogram,     |              |              | mimicked typescript   |
+| probably 'N.D.'      |              |              | with a watercolor     |
+| \vfill               |              |              | border.               |
++----------------------+--------------+--------------+-----------------------+
+|                      | \vfill       | \vfill       |                       |
+|                      | Title Page   | Title Page   |                       |
+|                      | \vfill       | \vfill       |                       |
++----------------------+--------------+--------------+-----------------------+
+| \footnotesize        | \vfill       |              |                       |
+| Handwritten in       | Text of      |              |                       |
+| cursive. 8 pages,    | Libretto     |              |                       |
+| numbered seperately  | \vfill       |              |                       |
+| from the music.      |              |              |                       |
++----------------------+--------------+--------------+-----------------------+
+|                      | Music        | Music        |                       |
++----------------------+--------------+--------------+-----------------------+
+
+Table: \label{contents-of-ms} Contents of [ms] [d1] and [ms] [e1]
+
+</div>
+
