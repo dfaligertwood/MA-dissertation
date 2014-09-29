@@ -18,4 +18,27 @@ nocite: |
         @Anon_1714_1747_i808, @Alsop_1705_1747_i1051, @Anon_i1199
 ---
 
+	\newcommand{\viola}{Viola}
+	\newcommand{\violino}{Violino}
+	\newcommand{\violinoI}{Violino 1\textsuperscript{mo}}
+	\newcommand{\violinoII}{Violino 2\textsuperscript{do}}
+	\newcommand{\continuo}{Continuo}
+	\newcommand{\figuredBass}{\continuo{} figures}
+	\newcommand{\tromba}{Tromba}
+	\newcommand{\travers}{Traversiere}
+	\newcommand{\traversI}{Traversiere 1\textsuperscript{mo}}
+	\newcommand{\traversII}{Traversiere 2\textsuperscript{do}}
+	\newcommand{\andII}{ and 2\textsuperscript{do}}
+	\newcommand{\ed}{\textsuperscript{†}}
+	
+	\newcommand{\basso}{Bass}
+	\newcommand{\tenore}{Tenor}
+	\newcommand{\altus}{Alto}
+	\newcommand{\treble}{Treble}
+	
+	
+	\newcommand{\mvmt}{movement}
+	\newcommand{\beat}{beat}
+	
+	\newcommand{\fourBeamedQuavers}{all beamed}
 
