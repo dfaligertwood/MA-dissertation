@@ -56,12 +56,13 @@ consider what information can be gleaned from the title pages of the texts.
 First, [ms] [d1]:
 
 <div class="center">
-MESSIAH. A [nl]
-*Christ-Mass [nl] Song* [nl]
-For [nl]
-Voices [nl]
-and [nl]
-Instruments [nl]
+**MESSIAH.** [nl]
+**A** [nl]
+*CHRIST-MASS* [nl] **SONG.** [nl]
+\hspace{1em} [nl] [sc] *for* [ec] [nl]
+*VOICES* [nl]
+*and* [nl]
+*INSTRUMENTS.* [nl]
 </div>
 
 As can be seen, the title page does not identify the copyist, composer, or 
@@ -92,7 +93,7 @@ M. Vicary de Norham & hujus Ecclesiae olim Minoris Canonici"
 After the title pages, [ms] [d1] includes a handwritten copy of the full text 
 of the libretto, in a clear, cursive hand. Curiously, the pages of this copy 
 are numbered in arabic numerals, but in a separate series to the music; that 
-is, the libretto is numbered 1--8, while the music is numbered 1--100. This is 
+is, the libretto is numbered 1–8, while the music is numbered 1–100. This is 
 surprising as, even then, one would expect for there to be a unique sequence of 
 arabic numerals throughout a book. may suggest that the libretto was written 
 separately from the music and only later bound with it. The libretto is 
@@ -110,7 +111,7 @@ Drake, the donor, is the copyist.
 Copyist
 -------
 
-Although we know from the title-page attributions and from [sc]ms a.iv.32 [ec] 
+Although we know from the title-page inscriptions and from [sc]ms a.iv.32 [ec] 
 that the donor was Thomas Drake, we cannot be certain that he was the composer 
 because of the alternative attributions from Nanki and the high quality of the 
 music [^b:3:f1]. However, it is possible to investigate whether he is the 
@@ -133,7 +134,10 @@ is clear that Drake’s handwriting is similar to that of the copyist; the
 distincitive formation of the letters ‘d’, N’ and ‘F’ are particularly 
 comparable.
 
-We will now turn to the question of the frontispiece. As noted in 
+We will now turn to the question of the frontispiece. The frontispiece is an 
+illustration in sepia ink of the nativity: three wise men, on bended knee, with 
+turbaned servants in the background guarding their camels; two shepherds, 
+playing flutes; and Mary and Joseph, holding the Christ child. As noted in 
 \autoref*{contents-of-ms}[^b:3:f2], this frontispiece has a monogram, probably 
 of the letters 'ND.' Drake had a number of relatives with these initials; in 
 particular, his father, brother, son, and nephew were all called Nathan Drake. 
@@ -142,7 +146,7 @@ designing engravings. However, he was born in 1726, so given the definite date
 ranged for [ms] [d1] of 1715–1747, he would probably be too young to have 
 painted the frontispiece [@Ingamells_2004_i1153]. Instead, it is more likely 
 that the frontispiece was painted by Thomas Drake's brother, although I have 
-not found any particular evidence that he was an active painter. 
+not found any particular evidence that he was an active painter.
 
 [^b:3:f2]: Page \pageref*{contents-of-ms}.
 
@@ -155,25 +159,29 @@ description of his background.
 
 [^b:3:f1]: See \autopageref*{drake-not-composer}
 
------------------------------------    -----------------------------------
-      Hymnus Ambrosianus [nl]              The Ambrosian Hymn [nl]
-\hspace{1em} [nl]                                  \hspace{1em}[nl]
-Musarum omnium [nl]                        Muse of All
-nec non [nl]                               in the
-*Ædis Christi* [nl]                        College of Christ Church
-apud [nl]                                  and among
-Oxonienses [nl]                            Oxford
-\hspace{1em} [nl]                          \hspace{1em}
-Alumnus [nl]                               Amongst their
-olim [nl]                                  Alumni,
-Eximius [nl]                               the Extraordinary
-Dignissimusque [nl]                        and Most Worthy
-*Ant. Alsop*                               *Anthony Alsop*
+\newpage
 
+-----------------------------------    -----------------------------------
+  **HYMNUS**                               \hspace{1em}
+  **AMBROSIANUS**                          The Ambrosian Hymn.
+  *Quem,*                                  Which,
+  *Ad [sc]Numeros Sapphicos [ec]*          excellently reduced
+  *feliciter reductum,*                    to Sapphic Stanzas,
+  *Posteris reliquit*                      is the gift to posterity of
+  **ANT. ALSOP,**                          ANTHONY ALSOP,
+  *MUSARUM OMNIUM,*                        Muse of All,
+  *nec non*                                of all Alumni
+  *ÆDIS CHRISTI*                           of Christ Church
+  *apud*                                   and
+  *OXONIENSES*                             of Oxford,
+  **ALUMNUS**                              the most
+  *olim*                                   Worthy
+  ***EXIMIUS,***                           and
+  [sc] ***Dignissimusque.*** [ec]          Excellent.
 -----------------------------------    -----------------------------------
 
 Table: Transcription of the title page of [ms] [e1], together with translation. 
-\label{ms-e1-title-transcription}
+The translation is not line-by-line. \label{ms-e1-title-transcription}
 
 \newpage
 
@@ -193,12 +201,13 @@ Table: Transcription of the title page of [ms] [e1], together with translation.
 +----------------------+--------------+--------------+-----------------------+
 | \footnotesize        | \vfill       | \vfill       | \footnotesize         |
 | \vfill               | Frontispiece | Frontispiece | In the same style as  |
-| An ink or sepia      | \vfill       | \vfill       | [ms] [d1]. Consists   |
-| illustration of      |              |              |                       |
+| An ink or sepia      | \vfill       | \vfill       | [ms] [d1]. Contains   |
+| illustration of      |              |              | the text              |
 | the Nativity, signed |              |              | of the libretto in    |
 | with a monogram,     |              |              | mimicked typescript   |
-| probably 'N.D.'      |              |              | with a watercolor     |
-| \vfill               |              |              | border.               |
+| probably 'N.D.'      |              |              | with an illustrated   |
+| \vfill               |              |              | ink border showing    |
+|                      |              |              | the choirs of heaven. |
 +----------------------+--------------+--------------+-----------------------+
 |                      | \vfill       | \vfill       |                       |
 |                      | Title Page   | Title Page   |                       |
