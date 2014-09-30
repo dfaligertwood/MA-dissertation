@@ -8,7 +8,9 @@ classoption:
         - 'headings=twolinechapter'
         - 'nochapterprefix'
 mainfont: EB Garamond
-mainfontoptions: 'CharacterVariant=11'
+mainfontoptions:
+        - 'CharacterVariant=11'
+        - 'AutoFakeBold=5'
 fontsize: 11pt
 papersize: a4paper
 bibliography: /Users/dfaligertwood/.pandoc/default.json
