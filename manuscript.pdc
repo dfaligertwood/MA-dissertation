@@ -155,7 +155,28 @@ description of his background.
 
 [^b:3:f1]: See \autopageref*{drake-not-composer}
 
-<div class="afterpage">
+-----------------------------------    -----------------------------------
+      Hymnus Ambrosianus [nl]              The Ambrosian Hymn [nl]
+\hspace{1em} [nl]                                  \hspace{1em}[nl]
+Musarum omnium [nl]                        Muse of All
+nec non [nl]                               in the
+*Ædis Christi* [nl]                        College of Christ Church
+apud [nl]                                  and among
+Oxonienses [nl]                            Oxford
+\hspace{1em} [nl]                          \hspace{1em}
+Alumnus [nl]                               Amongst their
+olim [nl]                                  Alumni,
+Eximius [nl]                               the Extraordinary
+Dignissimusque [nl]                        and Most Worthy
+*Ant. Alsop*                               *Anthony Alsop*
+
+-----------------------------------    -----------------------------------
+
+Table: Transcription of the title page of [ms] [e1], together with translation. 
+\label{ms-e1-title-transcription}
+
+\newpage
+
 +----------------------+--------------+--------------+-----------------------+
 |                      | [ms] [d1]    | [ms] [e1]    |                       |
 +======================+==============+==============+=======================+
@@ -194,28 +215,4 @@ description of his background.
 
 Table: \label{contents-of-ms} Contents of [ms] [d1] and [ms] [e1]
 
-</div>
 
-<div class="afterpage">
-
------------------------------------    -----------------------------------
-      Hymnus Ambrosianus [nl]              The Ambrosian Hymn [nl]
-\hspace{1em} [nl]                                  \hspace{1em}[nl]
-Musarum omnium [nl]                        Muse of All
-nec non [nl]                               in the
-*Ædis Christi* [nl]                        College of Christ Church
-apud [nl]                                  and among
-Oxonienses [nl]                            Oxford
-\hspace{1em} [nl]                          \hspace{1em}
-Alumnus [nl]                               Amongst their
-olim [nl]                                  Alumni,
-Eximius [nl]                               the Extraordinary
-Dignissimusque [nl]                        and Most Worthy
-*Ant. Alsop*                               *Anthony Alsop*
-
------------------------------------    -----------------------------------
-
-Table: Transcription of the title page of [ms] [e1], together with translation. 
-\label{ms-e1-title-transcription}
-
-</div>

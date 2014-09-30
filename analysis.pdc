@@ -13,15 +13,15 @@ corresponding music.
 
 ### Text
 
-> The ^[| night : [lo]: ‘Night'] was dark and silent; when Lycidas \rln \
+> The ^[| night : [lo]: ‘Night’] was dark and silent; when Lycidas \rln \
 > and Corydon, both faithful Shepherds met,\
-> as [^1:4] wont to meet each ^[| other : [lo]: ‘other;'] and watch their 
+> as [^1:4] wont to meet each ^[| other : [lo]: ‘other;’] and watch their 
 Flocks,\
-> which lay about them ^[| cluster’d: : [so]: ‘cluster'd'] when an Angel\
-> from [^1:7] ^[| Heav’n : [so]: ‘heav'n'] descended on a Beam of Light\
+> which lay about them ^[| cluster’d: : [so]: ‘cluster’d’] when an Angel\
+> from [^1:7] ^[| Heav’n : [so]: ‘heav’n’] descended on a Beam of Light\
 > insufferably glorious: they stood\
-> ^[| amaz’d: : [so]: ‘amaz'd'] [^1:8] but he with this message chear’d them;\
-> while Symphonies resounded sweetly ^[| warbling, : [so]: ‘warbling']\
+> ^[| amaz’d: : [so]: ‘amaz’d’] [^1:8] but he with this message chear’d them;\
+> while Symphonies resounded sweetly ^[| warbling, : [so]: ‘warbling’]\
 > The Trump of God preluding to his Song.
 
 [^1:4]: \> luke 2:8
@@ -42,23 +42,23 @@ Key Signature: G. Time: \lilyTimeC{}. 17 bars in length.
 *Messiah* opens with this account of the Revelation to the Shepherds. Although 
 it paraphrases the biblical account from Luke 2:8-10 relatively closely, there 
 are a number of deviations: the addition of names for the shepherds, the 
-identification of the Angel as ‘from Heav'n,' as opposed to ‘an Angel of the 
-[sc]lord [ec],'^[KJV, Luke 2:9] and the statement that the Angel descended ‘on 
-a beam of light.' Of these, the latter two do not have any major effect on the 
+identification of the Angel as ‘from Heav’n,’ as opposed to ‘an Angel of the 
+[sc]lord [ec],’^[KJV, Luke 2:9] and the statement that the Angel descended ‘on 
+a beam of light.’ Of these, the latter two do not have any major effect on the 
 meaning; however, the choice of names for the Shepherds is quite interesting. 
 In addition, I should like to draw attention to some of the word-painting that 
 the composer has used in this [mt].
 
-The two shepherds are identified as ‘Lycidas' and ‘Corydon.' These names are 
+The two shepherds are identified as ‘Lycidas’ and ‘Corydon.’ These names are 
 taken from the Pastoral literature, where Lycidas is a goatherd given to *ex 
-tempore* poetry from Theocritus' *Idylls* [@Theocritus_1901_i1236, 7^th^ 
-Idyll], and Corydon is a character from Virgil's *Eclogues,* similarly given to 
+tempore* poetry from Theocritus’ *Idylls* [@Theocritus_1901_i1236, 7^th^ 
+Idyll], and Corydon is a character from Virgil’s *Eclogues,* similarly given to 
 improvisation. The use of these textbook names for Arcadian shepherds serves to 
 ground the libretto in the English Pastoral tradition and suggests that the 
 librettist was an educated and literate person. Given the Italianate style of 
 this cantata, and the evident awareness of the latest Italian music in Oxford 
 at this time, it is possible that the librettist was referencing the ‘Arcadian 
-Academy' in Rome, of which Corelli was a member until his death [@Talbot_i1106, 
+Academy’ in Rome, of which Corelli was a member until his death [@Talbot_i1106, 
 sec. 3].
 
 I am not aware of any contemporary analyses that ascribe any deeper meaning to 
@@ -68,7 +68,7 @@ choice of these *particular* Arcadian shepherds was deliberate, in order to
 amuse an educated audience --- such as the audience at a meeting of the Oxford 
 Music Club.
 
-![\label{4:a:e1} Bars 7--8](./images/recit-1.pdf)
+![\label{4:a:e1} Bars 7--8](./images/recit-1_0001.pdf)
 
 The composer has imitated the text musically in a few places in this [mt]. I 
 will draw attention to two instances. In \autoref*{4:a:e1}, we see his 
@@ -80,7 +80,7 @@ text --- albeit an awareness not sustained throughout the cantata --- that was
 not necessarily universal at this time. As late as 1753, *Handel* was being 
 criticised for imitating text in his music [@Fiske_1986_i1118, p. 176-177].
 
-![\label{4:a:e2} Bars 8--11](./images/recit-2.pdf)
+![\label{4:a:e2} Bars 8--11](./images/recit-1_0002.pdf)
 
 \cleardoubleevenemptypage
 
@@ -90,16 +90,16 @@ criticised for imitating text in his music [@Fiske_1986_i1118, p. 176-177].
 ### Text
 
 > | Behold! [^2:b1] behold! ye Sons of Earth, \rln    ^[~ a]
-> |   ^[| To you : [so]: ‘to You'] glad Tydings here I ^[| bring! : [so]: ‘bring'] ^[~ b]
+> |   ^[| To you : [so]: ‘to You’] glad Tydings here I ^[| bring! : [so]: ‘bring’] ^[~ b]
 > | Proclaiming now the joyful Birth                  ^[~ a]
 > |   of *Christ* your Saviour and your King.           ^[~ b]
 
-> | Go [^2:b2] now to ^[| Bethl'em, : [so]: ‘Bethlem' ] David's Town,   ^[~ c]
-> |   the Son of David there ^[| you'll : [so]: ‘You'll'] find;         ^[~ d]
+> | Go [^2:b2] now to ^[| Bethl’em, : [so]: ‘Bethlem’ ] David’s Town,   ^[~ c]
+> |   the Son of David there ^[| you’ll : [so]: ‘You’ll’] find;         ^[~ d]
 > |           there [^2:b3] in a Manger lies          ^[~ e]
 > | Your God incarnate from the Skies;                ^[~ e]
 > |           Whom mighty Love brought down,          ^[~ c]
-> | a ^[| Saving : [lo]: ‘saving'] Love to all Mankind.                 ^[~ d]
+> | a ^[| Saving : [lo]: ‘saving’] Love to all Mankind.                 ^[~ d]
 
 [^2:b1]: \> luke 2:10
 
@@ -111,25 +111,27 @@ criticised for imitating text in his music [@Fiske_1986_i1118, p. 176-177].
 
 Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
 \continuo\ed \
-Key Signature: D. Time: \lilyTimeC{} and \lilyTimeSignature{3}{4}. 88 bars in 
-length including da capo; 59 excluding da capo.
+Key Signature: D. Time: \lilyTimeC{}, 28 bars and \lilyTimeSignature{3}{4}, 31 
+bars. 88 bars in length including da capo; 59 excluding da capo.
 
 \newpage
 
 ### Commentary
 
 This movement opens with a trumpet fanfare, echoing the final words of the 
-previous Recitative, ‘the Trump of God preluding to his song.' In this 
-movement, the text is, once again, a close paraphrase of the biblical text. 
-There are three textual elements I should like to draw attention to, before 
-turning to the music of the [mt].
+previous Recitative, ‘the Trump of God preluding to his song.’ In this 
+movement, the text is a close paraphrase of the biblical text from Luke 
+2:10-12. There are three textual elements I should like to draw attention to, 
+before turning to the music of the [mt].
 
-Firstly, the librettist's omission of the phrase ‘Fear not!' from the 
-paraphrase is quite surprising. However, given that ‘and they were sore 
-afraid'^[Luke 2:9] has been paraphrased as ‘they stood amaz'd' ^[1st [mt], 
-lines 6-7], it is perhaps not so remarkable.
+Firstly, the librettist’s omission of the phrase ‘Fear not!’ from the 
+paraphrase is quite surprising. If it were not for the fact that ‘and they were 
+sore afraid’^[Luke 2:9] has been paraphrased as ‘they stood amaz’d’ ^[1^st^ 
+[mt], lines 6-7], it would change the meaning of the text quite significantly. 
+However, combined with the change in the 1^st^ [mt], it is perhaps not so 
+remarkable.
 
-However, the use of the phrase ‘Son of David' in line 6 is particularly 
+However, the use of the phrase ‘Son of David’ in line 6 is particularly 
 interesting in the context of the title of this cantata. Identifying Christ as 
 the Son of David is primarily a Matthean theme, and it appears only twice in 
 Luke, at the Annunciation to Mary, and when Jesus heals the blind man outside 
@@ -137,35 +139,51 @@ Jericho ^[Luke 1:31; 18:35-43]. It is primarily used as a Messianic theme,
 drawing attention to Jesus as the promised Messiah.
 
 This is re-echoed with the use of the phrase ‘Your God incarnate from the 
-Skies,' which is explicitly stating the status of Jesus as both God and Man. 
+Skies,’ which is explicitly stating the status of Jesus as both God and Man. 
 This is important in the context of the 18^th^ century; *Messiah* was written 
 in a period that coincides with the height of the Deistic Controversy 
 [@Pattison_1860_i1269, p. 266]. Deism is the theory that the creator-God does 
 not interfere with creation. This necessarily entails the rejection of the 
 divinity of Christ [@Bristow_2011_i1271, §2.3]. By stating this divinity 
 outright, the librettist is ensuring that his credentials as an orthodox 
-Christian are unimpeachable.
+Christian are unimpeachable: even if, as has been suggested earlier in this 
+dissertation, the librettist is a non-juror.
 
-The composer has used word-painting to good effect throughout this. Aside from 
-the use of the trumpets to accentuate the godliness of the Angels, 
+The composer has followed the text to good effect throughout this movement. To 
+begin with, he has changed scoring between the A and the B sections, which 
+correspond to lines 1–4 and 5–10 of the transcription. The A section, with its 
+glad tidings, is in D major with a fanfare for the trumpet. For the B section, 
+which is more thoughtful and refers to the saving love of God, the composer has 
+changed to B minor, and removed the fanfare.
+
+He has also illustrated the text with a number of small figures. For example, 
+‘David’s Town,’ is followed by a figure on the 1^st^ and 2^nd^ violin 
+reminiscent of a shepherd’s pipe (Figure \ref*{4:b:e1}), played in thirds 
+between the two violins. He has also adopted the convention of using a melisma 
+on words indicating joy: for example, see Figures \ref*{4:b:e2} and 
+\ref*{4:b:e3}.
+
+![\label{4:b:e1} Bars 32–35](images/aria-1_0005.pdf)
+
+![\label{4:b:e2} Bars 8–10](images/aria-1_0001.pdf)
+
+![\label{4:b:e3} Bars 14–15](images/aria-1_0002.pdf)
 
 \cleardoubleevenemptypage
 
-3^rd^ [mt]: *Scarce had the Angel clos'd his Song*
+3^rd^ [mt]: *Scarce had the Angel clos’d his Song*
 -------------------------------------------------
 
 ### Text
 
-> Scarce [^3:b1] had the Angel clos'd his Song, when strait \rln \
-> th'Adamantin ^[| Gates : [lo]: ‘Doors'] of Heav'n flew open\
-> in wide ^[| Expanse, : [lo]: ‘Expanse;'] from whenceforth issu'd\
-> a Quire of ^[| Cherubim, : [so]: ‘Cherubim'] in Consort join'd\
-> ^[| harmonious, : [so]: ‘harmonious'] that play'd on golden Harps\
+> Scarce [^3:b1] had the Angel clos’d his Song, when strait \rln \
+> th’Adamantin ^[| Gates : [lo]: ‘Doors’] of Heav’n flew open\
+> in wide ^[| Expanse, : [lo]: ‘Expanse;’] from whenceforth issu’d\
+> a Quire of ^[| Cherubim, : [so]: ‘Cherubim’] in Consort join’d\
+> ^[| harmonious, : [so]: ‘harmonious’] that play’d on golden Harps\
 > a Jubile of highest Praise, and sung,
 
 [^3:b1]: \> luke 2:13
-
-\newpage
 
 ### Music
 
@@ -174,15 +192,22 @@ Key Signature: D. Time: \lilyTimeC{}. 11 bars in length.
 
 \newpage
 
+### Commentary
+
+This recitative, scored in the tenor clef, is a close paraphrase of Luke 2:13, 
+heralding the chorus of the heavens.
+
+\cleardoubleevenemptypage
+
 4^th^ [mt], Chorus of Angels: *Glory to God, Supreme above*
 ----------------------------------------------------------
 
 ### Text
 
-> | Glory to God, ^[| Supreme : [lo]: ‘supreme' [so]: ‘Supream'] ^[| above, : [so]: ‘above'] [^4:b1]  ^[~ a] \rln
-> |   to Man ^[| Acceptance, : [so]: ‘Acceptance' ] and free Grace.  ^[~ b]
-> | Among the Sons of ^[| human : [so]: ‘Human'] Race,         ^[~ b]
-> | be Peace, and ^[| everlasting : [lo]: ‘Everlasting'] Love.       ^[~ a]
+> | Glory to God, ^[| Supreme : [lo]: ‘supreme’ [so]: ‘Supream’] ^[| above, : [so]: ‘above’] [^4:b1]  ^[~ a] \rln
+> |   to Man ^[| Acceptance, : [so]: ‘Acceptance’ ] and free Grace.  ^[~ b]
+> | Among the Sons of ^[| human : [so]: ‘Human’] Race,         ^[~ b]
+> | be Peace, and ^[| everlasting : [lo]: ‘Everlasting’] Love.       ^[~ a]
 
 [^4:b1]: \> luke 2:14
 
@@ -196,19 +221,19 @@ Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
 
 \newpage
 
-5^th^ [mt]: *To Heav'n return'd the Angels*
+5^th^ [mt]: *To Heav’n return’d the Angels*
 ------------------------------------------
 
 ### Text
 
-> To ^[| Heav'n : [so]: ‘heav'n'] return'd the ^[| Angels: : [so]: ‘Angels'] to Bethlem \rln \
-> in haste the Shepherds ^[| went, : [so]: ‘went'] to see what God\
-> had brought to ^[| pass, : [so]: ‘pass'] and thus to them made known.\
+> To ^[| Heav’n : [so]: ‘heav’n’] return’d the ^[| Angels: : [so]: ‘Angels’] to Bethlem \rln \
+> in haste the Shepherds ^[| went, : [so]: ‘went’] to see what God\
+> had brought to ^[| pass, : [so]: ‘pass’] and thus to them made known.\
 > they came, and found the Infant in a Manger\
-> ^[| Lying; : [so]: ‘Lying'] while Joseph and the *Holy Mary*\
-> attended with officious ^[| care: : [so]: ‘care'] each Swain\
-> ador'd ^[| his : [lo]: ‘their'] *Saviour,* and with sylvan ^[| reed : [so]: ‘Reed']\
-> And ^[| cheerful voice : [so]: ‘chearful Voice'] pour'd ^[| forth : [lo]: ‘out']their Gratulations.
+> ^[| Lying; : [so]: ‘Lying’] while Joseph and the *Holy Mary*\
+> attended with officious ^[| care: : [so]: ‘care’] each Swain\
+> ador’d ^[| his : [lo]: ‘their’] *Saviour,* and with sylvan ^[| reed : [so]: ‘Reed’]\
+> And ^[| cheerful voice : [so]: ‘chearful Voice’] pour’d ^[| forth : [lo]: ‘out’]their Gratulations.
 
 \newpage
 
@@ -219,20 +244,20 @@ Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
 
 \newpage
 
-6^th^ [mt]: *The time's fulfill'd, which Bards of Old*
+6^th^ [mt]: *The time’s fulfill’d, which Bards of Old*
 -----------------------------------------------------
 
 ### Text
 
-> | The time's fulfill'd, which Bards of old                        ^[~ a] \rln
+> | The time’s fulfill’d, which Bards of old                        ^[~ a] \rln
 > |     In Mystic Phrase foretold;                                  ^[~ a]
-> | A Branch from Jesse's Root shou'd spring                        ^[~ b]
-> |     A Virgin shou'd bring forth a Son                           ^[~ x]
+> | A Branch from Jesse’s Root shou’d spring                        ^[~ b]
+> |     A Virgin shou’d bring forth a Son                           ^[~ x]
 > | The great Emmanuel our King.                                    ^[~ b]
 
 > | All hail to this auspicious Morn!                               ^[~ d]
-> |       For lo! *Messiah's** born, 	                            ^[~ d]
-> | And Man's Redemption's now begun.                               ^[~ x]
+> |       For lo! *Messiah’s** born, 	                            ^[~ d]
+> | And Man’s Redemption’s now begun.                               ^[~ x]
 
 \newpage
 
@@ -244,20 +269,20 @@ bars including da capo; 33 bars excluding da capo.
 
 \newpage
 
-7^th^ [mt]: *These are the Shepherd's Golden days*
+7^th^ [mt]: *These are the Shepherd’s Golden days*
 -------------------------------------------------
 
 ### Text
 
-> | These are the Shepherd's Golden days                            ^[~ a] \rln
+> | These are the Shepherd’s Golden days                            ^[~ a] \rln
 > |   When Innocence protects the Plains:                           ^[~ b]
 > | Now *Christ* his equal Sceptre sways                              ^[~ a]
-> |   O'er mighty Kings, and humble Swains.                         ^[~ b]
+> |   O’er mighty Kings, and humble Swains.                         ^[~ b]
 
 > | Let noisy Strife and Discord cease:                             ^[~ c]
 > |       no spiteful Jarrs,                                        ^[~ d]
 > |       no bloody Wars;                                           ^[~ d]
-> |     For *Christ's* the Prince of Peace.                           ^[~ c]
+> |     For *Christ’s* the Prince of Peace.                           ^[~ c]
 
 \newpage
 
@@ -269,7 +294,7 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-8^th^ [mt], An Alternat Pastoral for Shepherd's Boys: *The Shepherd of our Souls is here*
+8^th^ [mt], An Alternat Pastoral for Shepherd’s Boys: *The Shepherd of our Souls is here*
 -----------------------------------------------------------------------------------------
 
 ### Text
@@ -279,7 +304,7 @@ da capo; 97 bars excluding da capo.
 > | To hail his Birth we all appear,                                ^[~ a]
 > |   Exult, and chearful voices raise.                             ^[~ b]
 
-> | Carmel with sweetest Flow'rs shall spring,              [^8:b2] ^[~ c]
+> | Carmel with sweetest Flow’rs shall spring,              [^8:b2] ^[~ c]
 > |   And Lebanon with Transport nod.                               ^[~ d]
 > | Sharon shall all its Fragrance bring,                           ^[~ c]
 > |   And thus will Joy confess the God.                            ^[~ d]
@@ -297,7 +322,7 @@ da capo; 97 bars excluding da capo.
 > | In parched Lands shall Springs arise;                           ^[~ j]
 > |   Our Flocks the sweetest Verdure eat:                          ^[~ k]
 > | The Swains shall see this with surprise;                        ^[~ j]
-> |   But Dust shall be the Serpent's meat.                         ^[~ k]
+> |   But Dust shall be the Serpent’s meat.                         ^[~ k]
 
 [^8:b1]: \> isaiah 11:6
 [^8:b2]: \> isaiah 35:2
@@ -314,7 +339,7 @@ da capo; 97 bars excluding da capo.
 ### Text
 
 > | Christ is the Shepherd of us all; [^9:b1]                       ^[~ a] \rln
-> |   He will his wand'ring Sheep direct;                           ^[~ b]
+> |   He will his wand’ring Sheep direct;                           ^[~ b]
 > | The weak ones to his Bosom call,                                ^[~ a]
 > |   and those that are with young, protect.                       ^[~ b]
 
@@ -326,20 +351,20 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-10^th^ [mt]: *But lo! a bright and wond'rous Star arose*
+10^th^ [mt]: *But lo! a bright and wond’rous Star arose*
 -------------------------------------------------------
 
 ### Text
 
-> But lo! a bright and wond'rous Star arose, \rln \
+> But lo! a bright and wond’rous Star arose, \rln \
 > To lead three Royal Magi from the East,\
 > Melchior, and Casper, and Balthazar;\
 > Who waited long the rising of *Messiah*.\
 > In solemn Pomp they came: the friendly Star,\
-> That travel'd thro the Skies, conducting them,\
-> Fix'd to a point, directing where the Babe\
+> That travel’d thro the Skies, conducting them,\
+> Fix’d to a point, directing where the Babe\
 > They sought, was laid: in Adoration\
-> Down they fell; their precious Treasures open'd;\
+> Down they fell; their precious Treasures open’d;\
 > And thus, by turns, their humble Praises sung.
 
 \newpage
@@ -348,18 +373,18 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-11^th^ [mt]: *Sov'raign of Kings! this Gold I bring*
+11^th^ [mt]: *Sov’raign of Kings! this Gold I bring*
 ---------------------------------------------------
 
 ### Text
 
-> |   Sov'raign of Kings! this Gold I bring,                        ^[~ a] \rln
+> |   Sov’raign of Kings! this Gold I bring,                        ^[~ a] \rln
 > |   A Tribute to my God and King:                                 ^[~ a]
 > |     Devoutly at thy Feet                                        ^[~ b]
 > |     My self and Crown I lay.                                    ^[~ c]
 
 > |       For sure ‘tis meet,                                       ^[~ b]
-> | That Kings shou'd Thee, by whom they raign, obey.               ^[~ c]
+> | That Kings shou’d Thee, by whom they raign, obey.               ^[~ c]
 
 \newpage
 
@@ -367,18 +392,18 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-12^th^ [mt]: *Vouchsafe t'accept, O great High Priest!*
+12^th^ [mt]: *Vouchsafe t’accept, O great High Priest!*
 ------------------------------------------------------
 
 ### Text
 
-> | Vouchsafe t'accept, O great High Priest!                        ^[~ a] \rln
-> |   This Incense, Emblem of our Pray'r:                           ^[~ b]
+> | Vouchsafe t’accept, O great High Priest!                        ^[~ a] \rln
+> |   This Incense, Emblem of our Pray’r:                           ^[~ b]
 > | Present it at the Throne of Grace:                              ^[~ a]
-> |   For what Thou offer'st, God will hear.                        ^[~ b]
+> |   For what Thou offer’st, God will hear.                        ^[~ b]
 
-> | Aaron's Priesthood must cease to be;                            ^[~ c]
-> |   But Thine's to all Eternity.                                  ^[~ c]
+> | Aaron’s Priesthood must cease to be;                            ^[~ c]
+> |   But Thine’s to all Eternity.                                  ^[~ c]
 
 \newpage
 
@@ -397,7 +422,7 @@ da capo; 97 bars excluding da capo.
 > |   And Groves with Spices glow.                                  ^[~ b]
 
 > | This Myrrh, Good Lord, accept from me;                          ^[~ c]
-> | As all our Myrrh shou'd drop for Thee.                          ^[~ c]
+> | As all our Myrrh shou’d drop for Thee.                          ^[~ c]
 
 \newpage
 
@@ -405,12 +430,12 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-14^th^ [mt], Chorus of the Magi: *Thy boundless and eternal Pow'r*
+14^th^ [mt], Chorus of the Magi: *Thy boundless and eternal Pow’r*
 -----------------------------------------------------------------
 
 ### Text
 
-> | Thy boundless and eternal Pow'r                                 ^[~ x] \rln
+> | Thy boundless and eternal Pow’r                                 ^[~ x] \rln
 > | Both Kings and Subjects shall adore.                            ^[~ x]
 
 \newpage
@@ -419,18 +444,18 @@ da capo; 97 bars excluding da capo.
 
 \newpage
 
-15^th^ [mt]: *But Mary wonder'd at these things*
+15^th^ [mt]: *But Mary wonder’d at these things*
 -----------------------------------------------
 
 ### Text
 
-> But Mary wonder'd at these things; and while        \rln \
-> She mus'd, half bending o'er the charming Infant         \
-> Enraptur'd, a Fire of Extatic Joy                        \
+> But Mary wonder’d at these things; and while        \rln \
+> She mus’d, half bending o’er the charming Infant         \
+> Enraptur’d, a Fire of Extatic Joy                        \
 > Kindled in Her Soul; which from Her soft Tongue          \
 > Came forth melodious. Angels on the Wing                 \
-> Attentive hung; and, list'ning to Her Voice,             \
-> Touch'd with the gentlest hands their tuneful Minstrels, \
+> Attentive hung; and, list’ning to Her Voice,             \
+> Touch’d with the gentlest hands their tuneful Minstrels, \
 > While thus she sung her Eucharistic Hymn.
 
 \newpage
@@ -446,7 +471,7 @@ da capo; 97 bars excluding da capo.
 
 > |   My Soul shall glory in the Lord;                              ^[~ a] \rln
 > |   My Spirit triumph in His Praise:                              ^[~ b]
-> |  For God to me he's deign'd t'afford                            ^[~ a]
+> |  For God to me he’s deign’d t’afford                            ^[~ a]
 > |     Peculiar Grace, and highly raise.                           ^[~ b]
 
 > | Ages to come shall aggrandize my Fame:                          ^[~ c]
@@ -464,10 +489,10 @@ da capo; 97 bars excluding da capo.
 ### Text
 
 > |   This Festival demands a Joy,                                ^[~ a] \rln
-> |   Which shou'd each grateful Tongue employ.                   ^[~ a]
-> |   Angels in Heav'n, and Men on Earth                          ^[~ b]
+> |   Which shou’d each grateful Tongue employ.                   ^[~ a]
+> |   Angels in Heav’n, and Men on Earth                          ^[~ b]
 > |   Shall both in Harmony combine,                              ^[~ c]
-> |   To celebrate Messiah's Birth;                               ^[~ b]
+> |   To celebrate Messiah’s Birth;                               ^[~ b]
 > | And All in One Grand Hallelujah join.                         ^[~ c]
 
 \newpage
