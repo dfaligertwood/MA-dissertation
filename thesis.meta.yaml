@@ -10,7 +10,7 @@ classoption:
 mainfont: EB Garamond
 mainfontoptions:
         - 'CharacterVariant=11'
-        - 'AutoFakeBold=5'
+        - 'AutoFakeBold=2.5'
 fontsize: 11pt
 papersize: a4paper
 bibliography: /Users/dfaligertwood/.pandoc/default.json
