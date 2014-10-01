@@ -283,7 +283,7 @@ similarly set, as a declamation by the singers followed by a musical ‘echo’ 
 the orchestral parts.
 
 The second line of the text, however, is set rather more lyrically, with long 
-melismatic sections based around a falling \quaver\semiquaver sequence.
+melismatic sections based around a falling \quaver\semiquaver{} sequence.
 
 ![First bar \label{4:d:e1}](images/4-chorus_0001.pdf)
 
