@@ -2,11 +2,35 @@
 Analysis
 ========
 
-The bulk of this chapter will consist of a transcription of the text of the 
-libretto, together with editorial comments and descriptions of the 
-corresponding music.
+This chapter will consist of a brief movement-by-movement analysis of 
+*Messiah.* Each movement will be treated in the same way, in three parts: an 
+edited transcription of the libretto for that movement, followed by a high 
+level description of the music, and then a commentary.
 
-\newpage
+The libretto in [ms] [d1] largely agrees with the texting of the musical score; 
+where it differs, it usually differs in capitalisation, spelling, or 
+punctuation. In general, the punctuation and spelling of the libretto has been 
+followed, whereas capitalisation and any outright word differences have 
+followed the score. Delineation follows the libretto. All differences between 
+the two sources have been noted in the critical apparatus, with the exception 
+of capitals at the beginning of each line; these occur throughout the written 
+libretto, and have been omitted without comment. Additionally, the 
+transcription has been marked up with the biblical verses it paraphrases, and 
+the rhyme scheme in Arias or Choruses
+
+The musical description is relatively high level, and consists of the scoring, 
+key signature, time signature, and length of the movement. Where necessary, any 
+changes in time or key signature have been noted, together with the position 
+when the changes occur. As the copyist has often omitted part indications, 
+editorial instruments have been inserted to give an idea of scoring, and have 
+been marked with a sword, [eg]: Traversiere\ed. If an aria is given to a named 
+character, the name has been given together with their voice type in brackets.
+
+The commentary is primarily textual, together with an analysis of how the 
+musical language reflects the ideas in the text, and a number of notes 
+comparing the musical language with contemporary music.
+
+\cleardoubleevenemptypage
 
 1^st^ [mt]: *The Night was Dark and Silent*
 ------------------------------------------
@@ -112,8 +136,8 @@ criticised for imitating text in his music [@Fiske_1986_i1118, p. 176-177].
 
 Da capo Aria scored for \basso{} solo\ed{} with \tromba, \violinoI\andII, and 
 \continuo\ed \
-Key Signature: D. Time: \lilyTimeC{}, 28 bars and \lilyTimeSignature{3}{4}, 31 
-bars. 88 bars in length including da capo; 59 excluding da capo.
+Key Signature: D. Time: \lilyTimeC{} for 28 bars and \lilyTimeSignature{3}{4} 
+for 31 bars. 88 bars in length including da capo; 59 excluding da capo.
 
 \newpage
 
@@ -205,11 +229,11 @@ to the libretto. This is echoed in the use of the term ‘Gates of Heav’n,’ 
 does not appear outside of the Revelation of St John. It is worth noting that — 
 even today — these terms are often, and some would say perfectly reasonably, 
 conflated. Contemporary commentators, such as @Whitby_1703_i1257
-[p.334, fn. g], often regard the two as being entirely equivalent.
+[p.334, note g], often regard the two as being entirely equivalent.
 
-The recitative has one particularly interesting moment, where the harmony of 
-the consort is illustrated with a short melisma (\autoref*{4:c:e1}). However, 
-in general, it this movement is very straightforward.
+This movement is in B minor throughout, and has one particularly interesting 
+moment, where the harmony of the consort on line 5 is illustrated with a short 
+melisma (\autoref*{4:c:e1}). However, in general, it is very straightforward.
 
 ![\label{4:c:e1} Bars 7–8](images/3-recit_0001.pdf)
 
@@ -223,7 +247,7 @@ in general, it this movement is very straightforward.
 > | Glory to God, ^[| Supreme : [lo]: ‘supreme’ [so]: ‘Supream’] ^[| above, : [so]: ‘above’] [^4:b1]  ^[~ a] \rln
 > |   to Man ^[| Acceptance, : [so]: ‘Acceptance’ ] and free Grace.  ^[~ b]
 > | Among the Sons of ^[| human : [so]: ‘Human’] Race,         ^[~ b]
-> | be Peace, and ^[| everlasting : [lo]: ‘Everlasting’] Love.       ^[~ a]
+> |   be Peace, and ^[| everlasting : [lo]: ‘Everlasting’] Love.       ^[~ a]
 
 [^4:b1]: \> luke 2:14
 
@@ -231,11 +255,62 @@ in general, it this movement is very straightforward.
 
 Chorus scored for SATB Chorus\ed with \tromba{}, \violinoI\andII, \viola, and 
 \continuo\ed.\
-Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
+Key Signature: G. Time: \lilyTimeC{}, _Adagio_ for 13 bars then _Andante_ until 
+end. 54 bars in length.
 
 \newpage
 
 ### Commentary
+
+The text for this movement is a paraphrase of the chorus of the Heavenly Host, 
+from Luke 2:14. The text for this is as follows:
+
+|     Glory to God in the highest, and on earth peace, good will towards men.
+
+It is clear that the paraphrase is somewhat different from the text. After line 
+one, which is an almost direct paraphrase, we find that the librettist has 
+chosen an interpretation of ‘and on earth peace, good will towards men,’ which 
+corresponds to seperating the two clauses both from each other and from the 
+initial ‘Glory to God in the highest.’ This split is not a natural one for 
+contemporaries. For example, @Lightfoot_1684_i1275 [p. 2:391] explicitly states 
+that this verse should be interpreted as two clauses, with the split at the 
+second comma. This seperation is echoed in both the music, which is binary in 
+form, setting the lines 1–2 _Adagio_ with the text mostly sung without 
+accompaniment, and lines 3–4 _Andante_; and in the libretto, which naturally 
+splits after line 2 both because of a textual split and because of the symmetry 
+of the rhyme scheme around that point.
+
+The paraphrase also clearly refers to the peace being among the sons of Human 
+race, that is, among all men. While the traditional reading in the Anglican 
+church, and in the King James Bible, it was commonly known and noted at the 
+time that several sources had a quite different meaning, that is ‘Peace will be 
+on Earth to Men whom God accepts.’ [@Whitby_1703_i1257, p. 330, note g]
+
+The movement opens with ‘Glory,’ sung in declamatory G major chords by the full 
+chorus, echoed by the accompaniment, clearly declaiming the text ^[Figure 
+\ref*{4:d:e1}]. The following text ‘Glory to God, Supreme above,’ is similarly 
+set, as a declamation by the singers followed by a musical ‘echo’ in the 
+orchestral parts.
+
+The second line of the text, however, is set rather more lyrically, with long 
+melismatic sections on the word ‘acceptanve’ based around a falling 
+\quaver\semiquaver\semiquaver{} sequence, the exception to this is the tenor, 
+which repeats the word ‘acceptance’ in much shorter, although still melismatic, 
+sequences.^[Figure \ref*{4:d:e2}] The text is then repeated, following a 
+similar pattern; line 1 is set in homophonic block chords, while line 2 is set 
+melismatic with semi-independent voices.
+
+The *Andante* is introduced by the alto, accompanied by tromba and \violinoI{}. 
+In this sequence, the composer has made heavy use of imitation, in an 
+semi-fugal manner. By the use of the fugue, the composer is taking advantage of 
+the fugue in order to provide extra emphasis to a particular point through 
+repetition, a technique that has been part of the fugue since the 16^th^ 
+century [@Butler_1977_i1205, p. 51-53]. The point that he stresses, through 
+repetition for the rest of the movement, is line 4.
+
+![Bars 4–6, Soprano and Tenor lines \label{4:d:e2}](images/4-chorus_0002.pdf)
+
+![First bar \label{4:d:e1}](images/4-chorus_0001.pdf)
 
 \cleardoubleevenemptypage
 
@@ -244,23 +319,31 @@ Key Signature: G. Time: \lilyTimeC{}, _Adagio_. 54 bars in length.
 
 ### Text
 
-> To ^[| Heav’n : [so]: ‘heav’n’] return’d the ^[| Angels: : [so]: ‘Angels’] to Bethlem \rln \
+> To ^[| Heav’n : [so]: ‘heav’n’] return’d the ^[| Angels: : [so]: ‘Angels’] to 
+Bethlem \rln ^[> luke 2:15]\
 > in haste the Shepherds ^[| went, : [so]: ‘went’] to see what God\
 > had brought to ^[| pass, : [so]: ‘pass’] and thus to them made known.\
-> they came, and found the Infant in a Manger\
+> they came, and found the Infant in a Manger ^[> luke 2:16]\
 > ^[| Lying; : [so]: ‘Lying’] while Joseph and the *Holy Mary*\
 > attended with officious ^[| care: : [so]: ‘care’] each Swain\
-> ador’d ^[| his : [lo]: ‘their’] *Saviour,* and with sylvan ^[| reed : [so]: ‘Reed’]\
-> And ^[| cheerful voice : [so]: ‘chearful Voice’] pour’d ^[| forth : [lo]: ‘out’]their Gratulations.
-
-\newpage
+> ador’d ^[| his : [lo]: ‘their’] *Saviour,* and with sylvan ^[| reed : [so]: 
+‘Reed’] ^[> interpolation]\
+> And ^[| cheerful voice : [so]: ‘chearful Voice’] pour’d ^[| forth : [lo]: 
+‘out’]their Gratulations.
 
 ### Music
 
 Recitativo scored for \treble{} solo\ed with \continuo\ed.\
-Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
+Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca into 
+following aria.
 
 \newpage
+
+### Commentary
+
+
+
+\cleardoubleevenemptypage
 
 6^th^ [mt]: *The time’s fulfill’d, which Bards of Old*
 -----------------------------------------------------
@@ -277,8 +360,6 @@ Key Signature: D. Time: \lilyTimeC{}. 13 bars in length with attacca.
 > |       For lo! *Messiah’s** born, 	                            ^[~ d]
 > | And Man’s Redemption’s now begun.                               ^[~ x]
 
-\newpage
-
 ### Music
 
 Da capo Aria scored for Lycidas with \travers{} and \continuo\ed.\
@@ -286,6 +367,10 @@ Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61
 bars including da capo; 33 bars excluding da capo.
 
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
 7^th^ [mt]: *These are the Shepherd’s Golden days*
 -------------------------------------------------
