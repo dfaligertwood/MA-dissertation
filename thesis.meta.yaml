@@ -7,7 +7,7 @@ classoption:
         - 'oneside'
         - 'headings=twolinechapter'
         - 'nochapterprefix'
-mainfont: Junicode
+mainfont: EB Garamond
 mainfontoptions:
         - 'CharacterVariant=11'
         - 'AutoFakeBold=5'
