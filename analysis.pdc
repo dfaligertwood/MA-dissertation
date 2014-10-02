@@ -779,7 +779,9 @@ sets the word ‘High’ in line 1 as a high note.
 
 ### Music
 
-Da capo Aria scored for Balthazar (\tenor\ed) with \violino\ed, \
+Da capo Aria scored for Balthazar (\tenor\ed) with \violino\ed, \viola\ed{} and 
+\continuo\ed.\
+Key Signature: F. Time: \lilyTimeSignature{3}{4}
 
 \newpage
 
