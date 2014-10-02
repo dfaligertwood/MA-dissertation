@@ -676,10 +676,6 @@ Da capo Aria scored for Melchior (\basso\ed) with \violino, \oboe, \cello, and
 Key Signature: C. Time: \lilyTimeC{}. 87 bars including da capo; 47 bars 
 excluding da capo.
 
-Da capo Aria scored for Lycidas (\treble\ed) with \travers{} and \continuo\ed.\
-Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61 
-bars including da capo; 33 bars excluding da capo.
-
 \newpage
 
 ### Commentary
@@ -712,8 +708,8 @@ from the Georgian period, it seems reasonable to suggest that this line was,
 perhaps, placed there for the amusement of a Tory, Non-Juring, or Jacobite 
 audience. 
 
-The movement opens with an extended introduction from the orchestra, playing in 
-C major. It is possible that the 
+The movement is scored for \violino, \oboe, and \cello{} together with 
+\continuo{}. 
 
 \cleardoubleevenemptypage
 
