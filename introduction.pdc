@@ -12,4 +12,5 @@ musically it is modelled on the Corelli *Concerto Grosso, Fatto per la Notte di
 Natale.* This means that in style, it is quite similar to the Eastern European 
 and Italian Pastorale; the Pastorale, or Pastorella, is a type of music, 
 originating in Italy in the 17^th^ Century, which displays a number of 
-properties, including  
+features, including \lilyTimeSignature{6}{8} or \lilyTimeSignature{12}{8} time 
+signatures,  
