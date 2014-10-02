@@ -516,7 +516,7 @@ heavily, for example see figure \ref*{4:g:e2}
 
 ### Music
 
-Verse Pastoral scored for \treble\ed with \travers and \continuo\ed.\
+Verse Pastoral scored for \treble\ed{} with \travers{} and \continuo\ed.\
 Key Signature: G. Time: \lilyTimeSignature{3}{4}. 20 bars + anacrusis verses 1, 
 3, 5 excluding repeats; 20 bars verses 2 and 4, excluding repeats.
 
