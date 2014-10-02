@@ -1,6 +1,6 @@
 <<[introduction.pdc]
-<<[lit_review.pdc]
 <<[analysis.pdc]
+<<[lit_review.pdc]
 <<[manuscript.pdc]
 <<[biography.pdc]
 <<[review.pdc]
