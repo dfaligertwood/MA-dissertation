@@ -579,7 +579,7 @@ Rather, I suspect that it is purely in order to extend the music.
 
 Verse of the preceding Pastoral. Scored for ‘Both Shepherds’ (\treble\ed), 
 \traversI\andII{} and \continuo\ed.\
-Key: G. Time Signature: 
+Key: G. Time Signature: \lilyTimeSignature{3}{4}
 
 \newpage
 
