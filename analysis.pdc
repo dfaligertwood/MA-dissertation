@@ -14,9 +14,7 @@ followed, whereas capitalisation and any outright word differences have
 followed the score. Delineation follows the libretto. All differences between 
 the two sources have been noted in the critical apparatus, with the exception 
 of capitals at the beginning of each line; these occur throughout the written 
-libretto, and have been omitted without comment. Additionally, the 
-transcription has been marked up with the biblical verses it paraphrases, and 
-the rhyme scheme in Arias or Choruses
+libretto, and have been omitted without comment. 
 
 The musical description is relatively high level, and consists of the scoring, 
 key signature, time signature, and length of the movement. Where necessary, any 
@@ -28,7 +26,10 @@ character, the name has been given together with their voice type in brackets.
 
 The commentary is primarily textual, together with an analysis of how the 
 musical language reflects the ideas in the text, and a number of notes 
-comparing the musical language with contemporary music.
+comparing the musical language with contemporary music. Additionally, the 
+transcription has been marked up with the biblical verses it paraphrases, and 
+the rhyme scheme in Arias or Choruses. Those movements where the text 
+references an Old Testament reading have similarly been marked.
 
 \cleardoubleevenemptypage
 
@@ -284,7 +285,7 @@ The paraphrase also clearly refers to the peace being among the sons of Human
 race, that is, among all men. While the traditional reading in the Anglican 
 church, and in the King James Bible, it was commonly known and noted at the 
 time that several sources had a quite different meaning, that is ‘Peace will be 
-on Earth to Men whom God accepts.’ [@Whitby_1703_i1257, p. 330, note g]
+on Earth to Men whom God accepts.’ [@Whitby_1703_i1257, p. 330, note h]
 
 The movement opens with ‘Glory,’ sung in declamatory G major chords by the full 
 chorus, echoed by the accompaniment, clearly declaiming the text ^[Figure 
@@ -306,7 +307,8 @@ semi-fugal manner. By the use of the fugue, the composer is taking advantage of
 the fugue in order to provide extra emphasis to a particular point through 
 repetition, a technique that has been part of the fugue since the 16^th^ 
 century [@Butler_1977_i1205, p. 51-53]. The point that he stresses, through 
-repetition for the rest of the movement, is line 4.
+repetition for the rest of the movement, is line 4. Finally, the piece 
+modulates into G minor for the close.
 
 ![Bars 4–6, Soprano and Tenor lines \label{4:d:e2}](images/4-chorus_0002.pdf)
 
@@ -323,13 +325,13 @@ repetition for the rest of the movement, is line 4.
 Bethlem \rln ^[> luke 2:15]\
 > in haste the Shepherds ^[| went, : [so]: ‘went’] to see what God\
 > had brought to ^[| pass, : [so]: ‘pass’] and thus to them made known.\
-> they came, and found the Infant in a Manger ^[> luke 2:16]\
+> They came, and found the Infant in a Manger ^[> luke 2:16] \
 > ^[| Lying; : [so]: ‘Lying’] while Joseph and the *Holy Mary*\
 > attended with officious ^[| care: : [so]: ‘care’] each Swain\
 > ador’d ^[| his : [lo]: ‘their’] *Saviour,* and with sylvan ^[| reed : [so]: 
 ‘Reed’] ^[> interpolation]\
 > And ^[| cheerful voice : [so]: ‘chearful Voice’] pour’d ^[| forth : [lo]: 
-‘out’]their Gratulations.
+‘out’] their Gratulations.
 
 ### Music
 
@@ -341,7 +343,21 @@ following aria.
 
 ### Commentary
 
+Lines 1–6 are a close paraphrase of the text from the King James Bible. 
+Although not an exact correspondence, the meaning has not changed substantially 
+from the few omissions. Lines 7–8, however, are a complete interpolation: 
+biblically, the shepherds do not actually adore the christ-child. Once again, 
+the librettist is favouring the traditional over the biblical.
 
+What is perhaps more interesting is that this interpolation replaces Luke 
+2:17–18. In these verses, Luke describes the manner in which the shepherds 
+acted as the first evangelists. In terms of the ‘story’ of the libretto, it is 
+somewhat strange to leave these verses out: indeed, they would give the 
+following four movements a great deal more meaning. However, contemporary 
+commentators do not appear to have given these verses much thought, with the 
+exception of [@Henry_1757_i1280, p. 2:306]. It is possible that the librettist 
+wished for the following movements to be hymns of praise *to* the Christ-child, 
+as opposed to hymns of praise *about* him.
 
 \cleardoubleevenemptypage
 
@@ -350,25 +366,53 @@ following aria.
 
 ### Text
 
-> | The time’s fulfill’d, which Bards of old                        ^[~ a] \rln
-> |     In Mystic Phrase foretold;                                  ^[~ a]
-> | A Branch from Jesse’s Root shou’d spring                        ^[~ b]
-> |     A Virgin shou’d bring forth a Son                           ^[~ x]
-> | The great Emmanuel our King.                                    ^[~ b]
+> | The ^[| Time’s : [lo]: ‘time’s’ ] ^[| fulfill’d, : [so]: ‘fulfill’d’ ] which Bards of old ^[~ a] \rln
+> |     in Mystic Phrase ^[| foretold; : [so]: ‘foretold’ ]          ^[~ a]
+> | a Branch from Jesse’s Root shou’d spring ^[> isaiah 11:1 ]      ^[~ b]
+> |     a Virgin ^[| shou’d : [so], bar 14: shall ] bring forth a Son ^[> isaiah 7:14] ^[~ c]
+> | the great Emmanuel our King.                                    ^[~ b]
 
 > | All hail to this auspicious Morn!                               ^[~ d]
-> |       For lo! *Messiah’s** born, 	                            ^[~ d]
-> | And Man’s Redemption’s now begun.                               ^[~ x]
+> |       for lo! *Messiah’s* born, 	                            ^[~ d]
+> | And Man’s Redemption’s now begun.                               ^[~ c]
 
 ### Music
 
-Da capo Aria scored for Lycidas with \travers{} and \continuo\ed.\
+Da capo Aria scored for Lycidas (\treble\ed) with \travers{} and \continuo\ed.\
 Key Signature: D. Time: \lilyTimeSignature{12}{8}, _Siciliana Larghetto_. 61 
 bars including da capo; 33 bars excluding da capo.
 
 \newpage
 
 ### Commentary
+
+In this movement, we see the return of the classical ‘Arcadian’ shepherd, first 
+seen in the first movement. This shepherd, with his easy recall of the Old 
+Testament prophets, is clearly not a normal shepherd! The librettist’s choice 
+of Old Testament verses to reference is particularly interesting; Isaiah 7:14 
+is one of those verses often associated with Virgil’s *Eclogues,* in particular 
+the Fourth Eclogue, Verse 6 [@Pope_1718_i1286, p. 27–28], while his use of 
+Isaiah 11:1 re-echoes his explicit declarations of Christ as the Son of David 
+in the first movement. These readings are highly Messiaenic, and are perhaps 
+intended as ripostes against Jews or against Deists.
+
+Musically, the scoring and time signature have evidently been chosen due to the 
+character singing the Aria. The flute is an instrument which, even today, is 
+associated with the pastoral and with shepherds, an association that was 
+already apparent at the beginning of the 18^th^ Century [@Chew_1968_i1100, p. 
+220-221]. He has also written this movement in \lilyTimeSignature{12}{8}, 
+subdividing into four triplet beats, and he has used crotchet quaver rhythms 
+throughout the movement.
+
+In addition to these relatively broad-brushed techniques, the composer has used 
+some simple techniques to bring out words he feels to be important. First, the 
+word ‘Mystic’ has been set with a chromatic sequence ^[Figure \ref*{4:f:e1}], 
+with an augmented second descending to the final note, giving an exotic feel to 
+the word, a practise that is repeated when the word is repeated.
+
+Another practise that the composer has engaged in is to set ‘impor
+
+![Bar 10](images/6-aria_0001.pdf)
 
 \cleardoubleevenemptypage
 
