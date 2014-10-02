@@ -661,18 +661,18 @@ movement. This is echoed by the use of the names ‘Melchior,’ ‘Casper,’ a
 
 ### Text
 
-> |   Sov’raign of Kings! this Gold I bring,                        ^[~ a] \rln
-> |   A Tribute to my God and King:                                 ^[~ a]
-> |     Devoutly at thy Feet                                        ^[~ b]
-> |     My self and Crown I lay.                                    ^[~ c]
+> |   Sov’raign of ^[| Kings! : [so]: ‘Kings’] this Gold I ^[| bring, : [so]: ‘bring’] ^[~ a] \rln
+> |   a Tribute to my God and ^[| King: : [so]: ‘King’] ^[~ a]
+> |     devoutly at thy Feet                                        ^[~ b]
+> |     my self and Crown I lay.                                    ^[~ c]
 
 > |       For sure ‘tis meet,                                       ^[~ b]
 > | That Kings shou’d Thee, by whom they raign, obey.               ^[~ c]
 
 ### Music
 
-Da capo Aria scored for Melchior (\basso\ed) with \violino, \oboe, \cello, and 
-\continuo\ed.\
+Da capo Aria scored for Melchior (\baritone\ed) with \violino, \oboe, \cello, 
+and \continuo\ed.\
 Key Signature: C. Time: \lilyTimeC{}. 87 bars including da capo; 47 bars 
 excluding da capo.
 
@@ -710,8 +710,21 @@ audience.
 
 The movement is scored for \violino, \oboe, and \cello{} together with 
 \continuo{}. The oboe is often used to echo pastoral music: it is not so often 
-used to accompany a king. However, in context, the oboe is perhaps being used 
-to provide an ‘eastern’ sound, 
+used to accompany a king; in this piece it is particularly unusual because this 
+is the one occasion on which the oboe is used in *Messiah,* suggesting that the 
+piece was either composed for someone who could afford to pay an 
+instrumentalist to do nothing for most of a performance, or that the intention 
+was that the piece would be performed by amateurs in, for example, a University 
+music society. As for why the oboe is being used at all, it may be that the 
+oboe is being used to provide an ‘eastern’ sound to accompany the first King: 
+however, in that case, one would wonder why the oboe is not used to accompany 
+the other two Kings.
+
+The composer has engaged in word-painting again, for example his settings of 
+the word ‘lay’ are either on descending quavers, or a crotchet which is 
+considerably lower than the rest of the phrase (Figure \ref*{4:k:e1}).
+
+![Bars 34–35 \label{4:k:e1}](images/11-aria.pdf)
 
 \cleardoubleevenemptypage
 
@@ -728,11 +741,20 @@ to provide an ‘eastern’ sound,
 > | Aaron’s Priesthood must cease to be;                            ^[~ c]
 > |   But Thine’s to all Eternity.                                  ^[~ c]
 
-\newpage
-
 ### Music
 
+Da capo Aria scored for Casp
+
+Da capo Aria scored for Melchior (\baritone\ed) with \violino, \oboe, \cello, 
+and \continuo\ed.\
+Key Signature: C. Time: \lilyTimeC{}. 87 bars including da capo; 47 bars 
+excluding da capo.
+
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
 13^th^ [mt]: *For Thee our Aromatic Fields*
 ------------------------------------------
