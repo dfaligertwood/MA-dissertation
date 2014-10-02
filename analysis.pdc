@@ -414,7 +414,7 @@ Another practise that the composer has engaged in is to set some ‘important’
 words melismatically; for example, he sets ‘great’ from line 5 to a two bar 
 long melisma.
 
-![Bar 10](images/6-aria_0001.pdf)
+![Bar 10 \label{4:f:e1}](images/6-aria_0001.pdf)
 
 \cleardoubleevenemptypage
 
@@ -433,15 +433,16 @@ long melisma.
 > |       no bloody Wars;                                           ^[~ d]
 > |     For *Christ’s* the Prince of Peace.                           ^[~ c]
 
-\newpage
-
 ### Music
 
-Da capo Aria scored for Corydon with \traversI\andII{} and \continuo\ed.\
+Da capo Aria scored for Corydon (\treble\ed) with \traversI\andII{} and 
+\continuo\ed.\
 Key Signature: G. Time: \lilyTimeSignature{3}{8}, _Vivace_. 169 bars including 
 da capo; 97 bars excluding da capo.
 
 \newpage
+
+\cleardoubleevenemptypage
 
 8^th^ [mt], An Alternat Pastoral for Shepherd’s Boys: *The Shepherd of our Souls is here*
 -----------------------------------------------------------------------------------------
