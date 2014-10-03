@@ -38,7 +38,7 @@ The source uses beaming to indicate syllable changes, together with
 intermittent slurs. These have been left as in the source; any editorial slurs 
 are dotted, and if they replace an original slur they have also been noted.
 
-\cleardoubleevenpage
+\cleardoubleevenemptypage
 
 Music
 -----
