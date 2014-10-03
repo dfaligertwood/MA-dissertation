@@ -1,9 +1,10 @@
 ---
-title: '<span style="font-variant:small-caps;">Durham Cathedral ms d1</span>'
+title: '<span style="font-variant:small-caps;"></span>'
 author: '<span style="font-variant:small-caps;">d f a ligertwood</span>'
 csl: chicago-annotated-bibliography.csl
 documentclass: scrbook
 classoption:
+        - 'oneside'
         - 'headings=twolinechapter'
         - 'nochapterprefix'
 mainfont: EB Garamond
