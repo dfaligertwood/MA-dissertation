@@ -953,14 +953,15 @@ Subjects,’ when the theme passes from Casper to Balthazar to Melchior
 
 ### Text
 
-> But Mary wonder’d at these things; and while [^4:o:b1] \rln \
-> She mus’d, half bending o’er the charming Infant         \
-> Enraptur’d, a Fire of Extatic Joy                        \
-> Kindled in Her Soul; which from Her soft Tongue          \
-> Came forth melodious. Angels on the Wing                 \
-> Attentive hung; and, list’ning to Her Voice,             \
-> Touch’d with the gentlest hands their tuneful Minstrels, \
-> While thus she sung her Eucharistic Hymn.
+> But Mary wonder’d at these ^[| things; : [so]: ‘things’] and while [^4:o:b1] \rln \
+> She ^[| mus’d, : [so]: ‘mus’d’] half bending o’er the charming Infant \
+> ^[| enraptur’d, : [so]: ‘enraptured’] a Fire of ^[| Ecstatic : [lo]: ‘Extatic’] Joy \
+> kindled in ^[| her : [lo]: ‘Her’] ^[| Soul; : [so]: ‘Soul’] which from ^[| her : [lo]: ‘Her’] soft ^[| tongue : [lo]: ‘Tongue’] \
+> came forth ^[| melodious. : [so]: ‘melodious’] Angels on the ^[| wing : [so]: ‘Wing’] \
+> attentive ^[| hung; : [so]: ‘hung’] ^[| and, : [so]: ‘and’] list’ning to ^[| 
+her : [lo]: ‘Her’] ^[| Voice, : [so]: ‘Voice’] \
+> touch’d with the gentlest hands their tuneful ^[| Minstrels, : [so]: ‘Minstrels’] \
+> while thus she sung her Eucharistic Hymn.
 
 [^4:o:b1]: \> luke 2:19
 
@@ -970,9 +971,10 @@ Recitativo scored for Treble Solo\ed and Continuo\ed.\
 Key Signature: D. Time: \lilyTimeC{}. 15 bars in length with attacca into 
 following Aria. 
 
-\newpage
-
 ### Commentary
+
+This and the following movement are quite interesting contextually, as they 
+introduce the Magnificat into the Nativity.
 
 \cleardoubleevenemptypage
 
@@ -981,13 +983,13 @@ following Aria.
 
 ### Text
 
-> |   My Soul shall glory in the Lord;       ^[\> luke 1:46]        ^[~ a] \rln
-> |   My Spirit triumph in His Praise:       ^[\> luke 1:47]        ^[~ b]
-> |  For God to me he’s deign’d t’afford     ^[\> luke 1:48]        ^[~ a]
-> |     Peculiar Grace, and highly raise.                           ^[~ b]
+> |   My Soul shall glory in the ^[| Lord; : [so]: ‘Lord’] ^[\> luke 1:46] ^[~ a] \rln
+> |   my Spirit triumph in ^[| his : [lo]: ‘His’] ^[| Praise: : [so]: ‘Praise’] ^[\> luke 1:47] ^[~ b]
+> |  For God to me ^[| has : [lo]: ‘he’s’] deign’d t’afford ^[\> luke 1:48] ^[~ a]
+> |     peculiar ^[| Grace, : [so]: ‘Grace’] and highly raise. ^[~ b]
 
-> | Ages to come shall aggrandize my Fame:                          ^[~ c]
-> | But Holy, Holy, Holy is His Name.        ^[\> luke 1:49]        ^[~ c]
+> | Ages to come shall aggrandize my ^[| Fame: : [so]: ‘Fame’] ^[~ c]
+> | but Holy, Holy, Holy is ^[| his : [lo]: ‘His’] Name. ^[\> luke 1:49] ^[~ c]
 
 ### Music
 
@@ -1000,6 +1002,23 @@ da capo; 55 bars in length excluding da capo.
 
 ### Commentary
 
+It is quite surprising to find this paraphrase of the Magnificat in the 
+libretto. Although one would expect Mary to sing the Magnificat if she were to 
+sing, it is not obvious why she should sing at all. As we have seen, the 
+libretto is generally following Luke’s nativity, only interpolating the minimum 
+of the Matthean nativity necessary for the Magi. However, Luke does not suggest 
+that Mary sings. After the visitation of the shepherds, rather, we find that:
+
+|     But Mary kept all these things, and pondered them in her heart. ^[\> luke 2:19]
+
+As I said, it is surprising that Mary should sing; it is not surprising that if 
+she were to sing, she should sing a paraphrase of the Magnificat. It seems 
+likely that a performance of *Messiah,* should take place around Christmas, and 
+given the Italian influence, it is possible that it was semi-staged. If the 
+cantata was staged, this would give a good reason for this Marian insertion; it 
+would be necessary to have a woman playing the part of Mary. Why not have her 
+sing, as well?
+
 \cleardoubleevenemptypage
 
 17^th^ [mt], *Grand Chorus: This Festival demands a Joy*
@@ -1007,12 +1026,12 @@ da capo; 55 bars in length excluding da capo.
 
 ### Text
 
-> |   This Festival demands a Joy,                                ^[~ a] \rln
-> |   Which shou’d each grateful Tongue employ.                   ^[~ a]
-> |   Angels in Heav’n, and Men on Earth                          ^[~ b]
-> |   Shall both in Harmony combine,                              ^[~ c]
-> |   To celebrate Messiah’s Birth;                               ^[~ b]
-> | And All in One Grand Hallelujah join.                         ^[~ c]
+> |   This Festival demands a ^[| Joy, : [so]: ‘Joy’] ^[~ a] \rln
+> |   which shou’d each grateful Tongue employ.                   ^[~ a]
+> |   Angels in ^[| Heav’n, : [so]: ‘Heav’n’] and Men on Earth ^[~ b]
+> |   shall both in Harmony ^[| combine, : [so]: ‘combine’] ^[~ c]
+> |   to celebrate Messiah’s ^[| Birth; : [lo]: ‘Birth’] ^[~ b]
+> | And ^[| all : [lo]: ‘All’] in ^[| one : [lo]: ‘One’] ^[| grand : ‘Grand’] Hallelujah join. ^[~ c]
 
 ### Music
 
@@ -1021,9 +1040,17 @@ Chorus scored for SATB Chorus\ed{} with \tromba, \violinoI\andII, \viola,
 Key Signature: D. Time: \lilyTimeC{} for 76 bars, \lilyTimeSignature{12}{8} for 
 35 bars. 111 bars in length.
 
-\newpage
-
 ### Commentary
 
-\cleardoubleevenemptypage
+This final chorus is split musically into two halves: lines 1–5, and line 6, 
+‘And all in One Grand Hallelujah join,’ The first half, in \lilyTimeC{} time, 
+opens with 12 bar introduction from the orchestra and a trumpet fanfare, before 
+the chorus introduces lines 1–2, accompanied solely by continuo. This pattern, 
+of alternating between the orchestra is repeated throughout the setting of the 
+first six lines, invoking the *alternatim* style of Magnificat or Anthem 
+settings.
+
+The second half is a contrafactum of the Pastorale from the Corelli *Concerto 
+Grosso Fatto per la Notte di Natale.* This is, perhaps, not the most natural of 
+textual associations.
 

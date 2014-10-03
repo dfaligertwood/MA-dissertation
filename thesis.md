@@ -3,6 +3,5 @@
 <<[lit_review.pdc]
 <<[manuscript.pdc]
 <<[biography.pdc]
-<<[review.pdc]
 <<[transcription.pdc]
 <<[bibliography.pdc]
