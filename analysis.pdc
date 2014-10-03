@@ -1,6 +1,6 @@
 
-Analysis
-========
+The Music and Text
+==================
 
 This chapter will consist of a brief movement-by-movement analysis of 
 *Messiah.* Each movement will be treated in the same way, in three parts: an 
@@ -21,7 +21,7 @@ key signature, time signature, and length of the movement. Where necessary, any
 changes in time or key signature have been noted, together with the position 
 when the changes occur. As the copyist has often omitted part indications, 
 editorial instruments have been inserted to give an idea of scoring, and have 
-been marked with a sword, [eg]: Traversiere\ed. If an aria is given to a named 
+been marked with a sword, [eg]: \travers\ed. If an aria is given to a named 
 character, the name has been given together with their voice type in brackets.
 
 The commentary is primarily textual, together with an analysis of how the 
@@ -30,6 +30,116 @@ comparing the musical language with contemporary music. Additionally, the
 transcription has been marked up with the biblical verses it paraphrases, and 
 the rhyme scheme in Arias or Choruses. Those movements where the text 
 references an Old Testament reading have similarly been marked.
+
+First, however, we shall give a high level overview of the piece, including the 
+forces required, the characters, and the movements, together with a summary of 
+its structure.
+
+Overview
+--------
+
+*Messiah — A Christ-Mass Song* is an unusual piece, in as much as it is a 
+Christmas cantata from a Protestant country; moreover, it is a Christmas 
+cantata that is heavily influenced by the Pastoral music of Corelli, using the
+*Concerto Grosso: Fatto per la Notte di Natale* as its Overture, and the 
+Pastorale from the concerto, with a contrafactum, as the Finale. This makes it 
+unique, to the best of my knowledge, as an English piece that is heavily 
+influenced by the Eastern European and Italian ‘Pastorella’ type of music.
+
+It is a simple, traditional, narrative of the Nativity, and it naturally falls 
+into four parts, excluding the Overture, as follows:
+
+#. The Annunciation to the Shepherds (1^st^—4^th^ [mt]s).
+#. The Adoration of the Shepherds (5^th^—9^th^ [mt]s).
+#. The Adoration of the Magi (10^th^—14^th^ [mt]s).
+#. The Magnificat and the Final Chorus (15^th^—17^th^ [mt]s).
+
+The rest of this chapter will give a brief overview of the text and music of 
+each movement. However, at this point it seems useful to give a description of 
+the overall forces required for the piece.
+
+The orchestra requires the following instruments:
+
+* \continuo
+
+* \violinoI\andII
+* \viola
+* \cello
+
+* \tromba
+
+* \traversI\andII
+* \oboe
+
+As can be seen, this is a relatively small orchestra. It seems likely that this 
+piece was composed for performance in Oxford in the mid-to-late 1710s, and this 
+is borne out by the characters and their voice types:
+
+--------------------------------- ----------
+[sc]The Angel               [ec]  \basso
+[sc]Lycidas; a Shepherd boy [ec]  Treble
+[sc]Corydon; a Shepherd boy [ec]  Treble
+[sc]Melchior; a Magus       [ec]  \basso
+[sc]Caspar; a Magus         [ec]  \altus
+[sc]Balthazar; a Magus      [ec]  \tenore
+[sc]The Virgin Mary         [ec]  Soprano
+--------------------------------- ----------
+
+As can be seen, with the exception of the Virgin Mary, all of these parts could 
+be sung by men or boys from the Colleges. Each of these characters receives a 
+single Aria each; in addition, there are a number of narrative recitatives, 
+which may be performed by one of the characters — and indeed, perhaps would 
+have been performed by one of the characters — or by another person. There are 
+only two full choruses, which would probably have been performed by the 
+soloists (\autoref*{table-of-movements}).
+
+\cleardoubleevenemptypage
+
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+|    | [sc] mvmt [ec] | [sc] instruments [ec]                                         | [sc] title [ec]                                      |
++====+================+===============================================================+======================================================+
+| 1  | Overture       |                                                               | Corelli: Concerto Fatto per la Notte di Natale       |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 2  | Recitative     | Basso, Continuo                                               | The Night was Dark and Silent                        |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 3  | Aria           | Angel, Tromba, Violino 1^mo^ and 2^do^, Continuo              | Behold! Ye Sons of Earth                             |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 4  | Recitative     | Tenor, Continuo                                               | Scarce had the Angel clos'd his song                 |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 5  | Chorus         | Full Chorus, Tromba, Violino 1^mo^ and 2^do^, Viola, Continuo | Glory to God, Supreme above (Chorus of Angels)       |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 6  | Recitative     | Treble, Continuo                                              | To Heav'n return'd the Angels                        |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 7  | Aria           | Lycidas, Traversiere                                          | The time's fulfill'd, which Bards of Old             |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 8  | Aria           | Corydon, Traversiere 1^mo^ and 2^do^, Continuo                | These are the Shepherd's Golden days                 |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 9  | Chorus         | Lycidas and Corydon, Traversiere 1^mo^ and 2^do^, Continuo    | The Shepherd of our Souls is here; (An Alternat      |
+|    |                |                                                               | Pastoral for Shepherd's Boys)                        |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 10 | Chorus         | Lycidas and Corydon, Traversiere 1^mo^ and 2^do^, Continuo    | Christ is the Shepherd of us All                     |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 11 | Recitative     | Basso, Violino 1^mo^ and 2^do^, Viola, Continuo               | But lo! A bright and wond'rous Star                  |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 12 | Aria           | Melchior, Violino 1^mo^ and 2^do^, Oboe,                      | Sov'raign of Kings! this Gold I bring                |
+|    |                | Violoncello, Continuo                                         |                                                      |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 13 | Aria           | Casper, Violino, Continuo                                     | Vouchsafe t'accept, O great High Priest!             |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 14 | Aria           | Balthazar, Violino, Viola, Continuo                           | For Thee our Aromatic Fields                         |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 15 | Chorus         | Melchior, Casper, Balthazar,                                  | Thy boundless and eternal Pow'r (Chorus of the Magi) |
+|    |                | Violino 1^mo^ and 2^do^, Viola, Continuo                      |                                                      |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 16 | Recitative     | Treble, Continuo                                              | But Mary wonder'd at these things                    |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 17 | Aria           | Virgin Mary, Violino 1^mo^ and 2^do^, Continuo                | My Soul shall glory in the Lord (The Holy Virgin)    |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+| 18 | Chorus         | SATB, Tromba, Violino 1^mo^ and 2^do^, Viola, Cello,          | This Festival demands a Joy                          |
+|    |                | Continuo                                                      |                                                      |
++----+----------------+---------------------------------------------------------------+------------------------------------------------------+
+
+Table: \label{table-of-movements} Overview of the Movements
 
 \cleardoubleevenemptypage
 
@@ -294,7 +404,7 @@ set, as a declamation by the singers followed by a musical ‘echo’ in the
 orchestral parts.
 
 The second line of the text, however, is set rather more lyrically, with long 
-melismatic sections on the word ‘acceptanve’ based around a falling 
+melismatic sections on the word ‘acceptance’ based around a falling 
 \quaver\semiquaver\semiquaver{} sequence, the exception to this is the tenor, 
 which repeats the word ‘acceptance’ in much shorter, although still melismatic, 
 sequences.^[Figure \ref*{4:d:e2}] The text is then repeated, following a 
@@ -355,7 +465,7 @@ acted as the first evangelists. In terms of the ‘story’ of the libretto, it 
 somewhat strange to leave these verses out: indeed, they would give the 
 following four movements a great deal more meaning. However, contemporary 
 commentators do not appear to have given these verses much thought, with the 
-exception of [@Henry_1757_i1280, p. 2:306]. It is possible that the librettist 
+exception of @Henry_1757_i1280 [p. 2:306]. It is possible that the librettist 
 wished for the following movements to be hymns of praise *to* the Christ-child, 
 as opposed to hymns of praise *about* him.
 
@@ -388,7 +498,7 @@ bars including da capo; 33 bars excluding da capo.
 
 In this movement, we see the return of the classical ‘Arcadian’ shepherd, first 
 seen in the first movement. This shepherd, with his easy recall of the Old 
-Testament prophets, is clearly not a normal shepherd! The librettist’s choice 
+Testament prophets, is clearly not a normal shepherd. The librettist’s choice 
 of Old Testament verses to reference is particularly interesting; Isaiah 7:14 
 is one of those verses often associated with Virgil’s *Eclogues,* in particular 
 the Fourth Eclogue, Verse 6 [@Pope_1718_i1286, p. 27–28], while his use of 
@@ -403,7 +513,7 @@ reads:
 |     The Saviour comes! by ancient Bards foretold [@Pope_1718_i1286, p. 24, line 37]
 
 While this may just be coincidence in this movement, the text in later 
-movements — in particular, the 8^th^ movement — make a strong case that it is 
+movements — in particular, the 8^th^ movement — makes a strong case that it is 
 not.
 
 Musically, the scoring and time signature have evidently been chosen due to the 
@@ -412,7 +522,10 @@ associated with the pastoral and with shepherds, an association that was
 already apparent at the beginning of the 18^th^ Century [@Chew_1968_i1100, p. 
 220-221]. He has also written this movement in \lilyTimeSignature{12}{8}, 
 subdividing into four triplet beats, and he has used crotchet quaver rhythms 
-throughout the movement.
+throughout the movement, a common rhythmic pattern in the Pastorella form 
+[@Chew_1968_i1100, p. 46], and, perhaps more importantly, a rhythm that appears 
+throughout the Pastorale of the Corelli Concerto Fatto per la Notte di Natale 
+[@Corelli_1978_i1291, p. 184].
 
 In addition to these relatively broad-brushed techniques, the composer has used 
 some simple techniques to illustrate some words. First, the word ‘Mystic’ has 
@@ -460,7 +573,7 @@ there is one particularly interesting point to raise in the text.
 
 In line 1, these are the Shepherd’s “golden Days.” This appears to be a 
 reference to the concept from Hesiod of the Five Ages of Man, beginning with 
-the Golden Age and ending with the Iron Age, in which we live 
+the golden age and ending with the iron age, in which we live 
 [@Burd_1915_i1289, p. 173]. This continues the prior references to classical 
 mythology that have been seen in the libretto; indeed, it is clear from the 
 text of Virgil’s 4^th^ Eclogue that he is looking forward to the golden age:
@@ -510,9 +623,10 @@ heavily, for example see figure \ref*{4:g:e2}
 
 > | Loving shall Wolves with Lambkins ^[| feed, : [so]: ‘feed’] [^8:b5] ^[~ g]
 > |   the Kid and Leopard fondly ^[| meet; : [so]: ‘meet’]  [^8:b1] ^[~ h]
-> | Boys shall in ^[| Play : [lo]: ‘play’] the Tygers ^[| lead, : [so]: ‘lead’] 
-^[~ g]
+> | Boys shall in ^[| Play : [lo]: ‘play’] the Tygers ^[| lead, : [so]: ‘lead’] ^[~ g]
 > |   and harmless Snakes shall lick their ^[| Feet : [lo]: feet]. ^[~ h]
+
+\newpage
 
 > | In parched Lands shall Springs ^[| arise; : [so]: ‘arise’]  [^8:b4] ^[~ j]
 > |   our Flocks the sweetest Verdure ^[| eat: : [so]: ‘eat’]       ^[~ k]
@@ -520,12 +634,14 @@ heavily, for example see figure \ref*{4:g:e2}
 > |   but Dust shall be the ^[| Serpent’s : [so]: Serpents] meat. [^8:b5] ^[~ k]
 
 [^8:b1]: \> isaiah 11:6
-[^8:b2]: \> isaiah 35:2
-[^8:b3]: \> isaiah 55:13
-[^8:b4]: \> isaiah 35:7
-[^8:b5]: \> isaiah 65:25
 
-\newpage
+[^8:b2]: \> isaiah 35:2
+
+[^8:b3]: \> isaiah 55:13
+
+[^8:b4]: \> isaiah 35:7
+
+[^8:b5]: \> isaiah 65:25
 
 ### Music
 
@@ -543,8 +659,7 @@ influenced by not only Virgil’s 4^th^ Eclogue, but by Alexander Pope’s
 |     The lambs with wolves shall graze the verdant mead,
 |     And boys on flow’ry banks the tyger lead!
 |     The steer and lion at one crib shall meet,
-|     And harmless serpents lick the pilgrim’s feet. [@Pope_1718_i1286, p. 25, 
-lines 76–80]
+|     And harmless serpents lick the pilgrim’s feet. [@Pope_1718_i1286, p. 25, lines 76–80]
 
 It is evident there is some inspiration; however, it might be suggested that 
 these are simply their common origin. However, neither Virgil nor Isaiah refer 
@@ -553,8 +668,8 @@ for this *Messiah* had a copy of Pope’s *Messiah* close to hand.
 
 Musically, stanzas 1, 3 and 5 are identical, and similarly with stanzas 2 and 
 4. As this is a pastoral for shepherd boys, it is, quite unsurprisingly, 
-   accompanied by flute. Because of the stanzaic structure, there is little 
-   musical imitation of the text.
+   partially accompanied by flute. Because of the stanzaic structure, there is 
+   little musical imitation of the text.
 
 That said, all the stanzas have repeats marked for each two line section; that 
 is, for the first stanza, the lines would be performed in the following order: 
@@ -564,7 +679,15 @@ is unclear *who* is meant to be singing it. It would appear from the title that
 it is to be sung by both shepherds, or by a chorus of ‘Shepherd’s Boys,’ but 
 the fact that it is followed by an explicit chorus would appear to negate that 
 idea. Rather, it seems likely that the two shepherds Lycidas and Corydon would 
-alternate verses.
+alternate verses, and these are the Shepherd’s Boys of the title.
+
+This alternating structure is reminiscent of a verse setting of the magnificat, 
+a similarity which is only amplified by the choice of the composer to separate 
+the stanzas into two semi-verses, and to mark repeats for each semi-verse. This 
+is amplified still further because the flute accompaniment is only present for 
+the second semi-verse of each stanza. By grounding the accompaniment in this 
+tradition, the composer is reminding us that the texts for this movement are 
+effectively taking the form of a New Testament canticle.
 
 \cleardoubleevenemptypage
 
@@ -584,11 +707,15 @@ alternate verses.
 
 Verse of the preceding Pastoral. Scored for ‘Both Shepherds’ (\treble\ed), 
 \traversI\andII{} and \continuo\ed.\
-Key: G. Time Signature: \lilyTimeSignature{3}{4}
-
-\newpage
+Key: G. Time Signature: \lilyTimeSignature{3}{4}. 20 bars in length.
 
 ### Commentary
+
+In the prefatory libretto, this movement was originally marked as the final 
+stanza to the *Alternat Pastoral,* and this history carries over into the 
+music, which is identical to the ‘even numbered’ verses of the *Alternat 
+Pastoral,* so there is little to add here musically. The text is also broadly 
+uninteresting, being a very close paraphrase of Isaiah 40:11.
 
 \cleardoubleevenemptypage
 
@@ -597,60 +724,156 @@ Key: G. Time Signature: \lilyTimeSignature{3}{4}
 
 ### Text
 
-> But lo! a bright and wond’rous Star arose, \rln \
-> To lead three Royal Magi from the East,\
-> Melchior, and Casper, and Balthazar;\
-> Who waited long the rising of *Messiah*.\
-> In solemn Pomp they came: the friendly Star,\
-> That travel’d thro the Skies, conducting them,\
-> Fix’d to a point, directing where the Babe\
-> They sought, was laid: in Adoration\
-> Down they fell; their precious Treasures open’d;\
-> And thus, by turns, their humble Praises sung.
-
-\newpage
+> But lo! a bright and wond’rous Star ^[| arose, : [so]: ‘arose’] ^[\> matthew 2:1,9] \rln \
+> to lead three Royal Magi from the ^[| East, : [so]: ‘East’ ] \
+> Melchior, and Casper, and ^[| Balthazar; : [so]: ‘Balthaser’] \
+> who waited long the rising of ^[| *Messiah*. : [so]: ‘Messiah’]\
+> in solemn Pomp they came: the friendly Star,\
+> that travel’d thro the ^[| Skies, : [so]: ‘Skies’] conducting ^[| them, : ‘them’]\
+> fix’d to a ^[| point, : [so]: ‘point’] directing where the Babe\
+> they ^[| sought, : [so]: ‘sought’] was ^[| laid: : [so]: ‘laid’] in Adoration ^[\> matthew 2:11]\
+> down they ^[| fell; : [so]: ‘fell’ ] their precious Treasures ^[| open’d; : [so]: ‘open’d’]\
+> and ^[| thus, : [so]: ‘thus’] by ^[| turns, : [so]: ‘turns’] their ^[| grateful : [lo]: ‘humble’] Praises sung.
 
 ### Music
 
+Recitativo scored for \basso{} solo\ed with \viola\ed, \violinoI\andII\ed and 
+\continuo\ed.\
+Key Signature: C. Time: \lilyTimeC{}, *Adagio*. 19 bars in length with attacca 
+into following aria.
+
 \newpage
+
+### Commentary
+
+This recitativo is accompanied throughout by staccato quavers in the orchestra 
+(Figure \ref*{4:j:e1}), which bring to mind the travelling Magi. In addition to 
+this, there is a little figure where ‘the rising of *Messiah*’ is set to a 
+rising scale (Figure \ref*{4:j:e2}).
+
+The text omits a whole chunk of the Biblical story of the Magi, that is the 
+section relating the dealings of the Magi with Herod, and the slaughter of the 
+Innocents. Once again, then, we find the librettist departing from the strict 
+biblical story in order to tell a more ‘traditional’ story, as in the 5^th^ 
+movement. This is echoed by the use of the names ‘Melchior,’ ‘Casper,’ and 
+‘Balthazar;’ which are traditional names, first recorded in the 8^th^ century 
+[@Abbey_8th_Century_i1059, f. 51v]; also traditional is the identification of 
+*three* Magi, as opposed to any other number.
+
+![First bar \label{4:j:e1}](images/10-recit_0001.pdf)
+
+![Bars 6–7 \label{4:j:e2}](images/10-recit_0002.pdf)
+
+\cleardoubleevenemptypage
 
 11^th^ [mt]: *Sov’raign of Kings! this Gold I bring*
 ---------------------------------------------------
 
 ### Text
 
-> |   Sov’raign of Kings! this Gold I bring,                        ^[~ a] \rln
-> |   A Tribute to my God and King:                                 ^[~ a]
-> |     Devoutly at thy Feet                                        ^[~ b]
-> |     My self and Crown I lay.                                    ^[~ c]
+> |   Sov’raign of ^[| Kings! : [so]: ‘Kings’] this Gold I ^[| bring, : [so]: ‘bring’] ^[~ a] \rln
+> |   a Tribute to my God and ^[| King: : [so]: ‘King’] ^[~ a]
+> |     devoutly at thy Feet                                        ^[~ b]
+> |     my self and Crown I lay.                                    ^[~ c]
 
 > |       For sure ‘tis meet,                                       ^[~ b]
 > | That Kings shou’d Thee, by whom they raign, obey.               ^[~ c]
 
-\newpage
-
 ### Music
 
+Da capo Aria scored for Melchior (\baritone\ed) with \violino, \oboe, \cello, 
+and \continuo\ed.\
+Key Signature: C. Time: \lilyTimeC{}. 87 bars including da capo; 47 bars 
+excluding da capo.
+
 \newpage
+
+### Commentary
+
+This text is entirely interpolated, and moreover appears to be entirely 
+original in form, if not in idea: in particular, unlike the Arias of the 
+Shepherds, it does not appear to reference any Old Testament readings. However, 
+also unlike the Shepherds’ Arias, the interpolation is of a biblical event, 
+that is in Matthew 2:11, when the Magi ‘…fell down, and worshipped him: and 
+when they had opened their treasures, they presented unto him gifts; gold, and 
+frankincense, and myrrh.’
+
+The interpolation has a number of interesting facets. In particular, it splits 
+in two positions; after line 4, as in this transcription, but it could also be 
+split after line 2, where the rhyme scheme would imply a split. This allows 
+lines 3–4 to take on a different meaning, depending on which side of the split 
+they are placed: if paired with lines 1–2, then ‘My self and Crown’ is the 
+tribute to my God and King. If paired with lines 5–6, then ‘My self and Crown’ 
+is part of obeying God.
+
+The interpolation also has this line that I find particularly interesting:
+
+|     That Kings shou’d Thee, by whom they raign, obey.
+
+This line has a strong note of the divine right of Kings. While the divine 
+right of Kings cannot be said to be *solely* Stuart, it appears to have died 
+out by the time of the Georgian period [@Straka_1962_i1294, p. 638–639]: the 
+Hanoverian dynasty did not claim the divine right. Given that this libretto is 
+from the Georgian period, it seems reasonable to suggest that this line was, 
+perhaps, placed there for the amusement of a Tory, Non-Juring, or Jacobite 
+audience. 
+
+The movement is scored for \violino, \oboe, and \cello{} together with 
+\continuo{}. The oboe is often used to echo pastoral music: it is not so often 
+used to accompany a king; in this piece it is particularly unusual because this 
+is the one occasion on which the oboe is used in *Messiah,* suggesting that the 
+piece was either composed for someone who could afford to pay an 
+instrumentalist to do nothing for most of a performance, or that the intention 
+was that the piece would be performed by amateurs in, for example, a University 
+music society. As for why the oboe is being used at all, it may be that the 
+oboe is being used to provide an ‘eastern’ sound to accompany the first King: 
+however, in that case, one would wonder why the oboe is not used to accompany 
+the other two Kings.
+
+The composer has engaged in word-painting again, for example his settings of 
+the word ‘lay’ are either on descending quavers, or a crotchet which is 
+considerably lower than the rest of the phrase (Figure \ref*{4:k:e1}).
+
+![Bars 34–35 \label{4:k:e1}](images/11-aria.pdf)
+
+\cleardoubleevenemptypage
 
 12^th^ [mt]: *Vouchsafe t’accept, O great High Priest!*
 ------------------------------------------------------
 
 ### Text
 
-> | Vouchsafe t’accept, O great High Priest!                        ^[~ a] \rln
-> |   This Incense, Emblem of our Pray’r:                           ^[~ b]
-> | Present it at the Throne of Grace:                              ^[~ a]
-> |   For what Thou offer’st, God will hear.                        ^[~ b]
+> | Vouchsafe ^[| t’accept, : [so]: ‘t’accept’] O great High ^[| Priest! : [so]: ‘Priest’] ^[~ a] \rln
+> |   this ^[| Incense, : [so]: ‘Incense’ ] Emblem of our ^[| Pray’r: : [so]: ‘Pray’rs’] ^[~ b]
+> | Present it at the Throne of ^[| Grace: : [so]: ‘Grace’] ^[~ a]
+> |   for what Thou ^[| offer’st, : [so]: ‘off’rest’] God will ^[| hear. : [so]: ‘hear’] ^[~ b]
 
-> | Aaron’s Priesthood must cease to be;                            ^[~ c]
-> |   But Thine’s to all Eternity.                                  ^[~ c]
-
-\newpage
+> | Aaron’s Priesthood must cease to ^[| be; : [so]: ‘be’] ^[~ c]
+> |   But ^[| thine’s : [lo]: ‘Thine’s’] to all Eternity.  ^[~ c]
 
 ### Music
 
+Da capo Aria scored for Casper (\altus\ed) with \violino\ed{} and 
+\continuo\ed.\
+Key Signature: B\flat{}. Time: \lilyTimeC{}, *Larghetto*. 94 bars including da 
+capo; 52 bars excluding da capo.
+
 \newpage
+
+### Commentary
+
+The text of this movement makes clear a subtext that runs throughout a lot of 
+Messianic texts of this period, that is to say, anti-Jewish sentiments 
+primarily based around the concept of conversion [@Marissen_2007_i1296, p. 
+168-169]. The final couplet makes this clear: not only is the priesthood of 
+Christ, that is to say, Christianity, to exist for all eternity, but the 
+priesthood of Aaron, that is to say, Judaism, must cease to exist. 
+
+Musically, the composer is not word-painting as much in this movement; there is 
+perhaps a single quote that may be reasonably noted for that, where he reliably 
+sets the word ‘High’ in line 1 as a high note.
+
+\cleardoubleevenemptypage
 
 13^th^ [mt]: *For Thee our Aromatic Fields*
 ------------------------------------------
@@ -658,18 +881,40 @@ Key: G. Time Signature: \lilyTimeSignature{3}{4}
 ### Text
 
 > | For Thee our Aromatic Fields                                    ^[~ a] \rln
-> |   In gay Profusion grow:                                        ^[~ b]
-> | For Thee her Gems Saban yeilds,                                 ^[~ a]
-> |   And Groves with Spices glow.                                  ^[~ b]
+> |   in gay Profusion ^[| grow: : [so]: ‘grow’]                    ^[~ b]
+> | for Thee her ^[| Gums : [lo]: ‘Gems’] Saban ^[| yields, : [so],[lo]: ‘yeilds,’ ^[\> isaiah 60:6] ^[~ a]
+> |   And Groves with Spices ^[| glow. : [so]: ‘glow’]              ^[~ b]
 
-> | This Myrrh, Good Lord, accept from me;                          ^[~ c]
-> | As all our Myrrh shou’d drop for Thee.                          ^[~ c]
-
-\newpage
+> | This Myrrh, Good Lord, accept from ^[| me; : [so]: ‘me’] ^[~ c]
+> | As all ^[| our Myrrh : [so], bar 80: ‘her Gums’] shou’d drop for ^[| Thee. : [so]: ‘Thee’] ^[~ c]
 
 ### Music
 
+Da segno Aria scored for Balthazar (\tenore\ed) with \violino\ed, \viola\ed{} 
+and \continuo\ed.\
+Key Signature: F. Time: \lilyTimeSignature{3}{4}, *Adagio* at bar 54. 132 bars 
+including da capo; 93 bars + anacrusis excluding da capo.
+
 \newpage
+
+### Commentary
+
+This Aria is the longest of the Arias of the Three Kings. Once again, it is an 
+original text, although it clearly references the prophecy of Isaiah. 
+Interestingly, the librettist has used the alternative name ‘Saban,’ instead of 
+‘Sheba,’ the commonly accepted version. It seems likely that he has been 
+referring to the Vulgate, which transliterates the name as ‘Saba.’
+
+Musically, this movement is much more florid than previous movements, using 
+melisma on almost every word; this suggests that the singer of this movement 
+was more lyric than others, and that the composer know who would perform the 
+piece, such as he would if he were writing for a society. It has a rather nice 
+sequence around the word ‘drop,’ using falling crotchets to illustrate the word 
+(\autoref*{4:m:e1}). 
+
+![Bars 74–76 \label{4:m:e1}](images/13-aria.pdf)
+
+\cleardoubleevenemptypage
 
 14^th^ [mt], Chorus of the Magi: *Thy boundless and eternal Pow’r*
 -----------------------------------------------------------------
@@ -677,20 +922,38 @@ Key: G. Time Signature: \lilyTimeSignature{3}{4}
 ### Text
 
 > | Thy boundless and eternal Pow’r                                 ^[~ x] \rln
-> | Both Kings and Subjects shall adore.                            ^[~ x]
-
-\newpage
+> | Both Kings and Subjects shall ^[| adore. : [so]: ‘adore’]       ^[~ x]
 
 ### Music
 
-\newpage
+Chorus scored for Melchior (\basso\ed), Casper (\altus\ed), and Balthazar 
+(\tenore\ed) with \violinoI\andII, \viola{} and \continuo\ed.\
+Key Signature: F. Time: \lilyTimeC{}. 36 bars in length.
+
+### Commentary
+
+The composer has made heavy use of imitation between the voice parts in this 
+movement, in order to refer to earlier styles that used imitation heavily, and 
+communicate the eternal nature of both the ‘Pow’r’ and the adoration. For 
+example, in the first three bars, we find that the text of the first line is 
+given to Casper and Balthazar in unison, with the same theme then given to 
+Melchior in a semi-fugal structure (\autoref*{4:n:e1}). This practise is 
+carried throughout the movement, for example at the entry of ‘both Kings and 
+Subjects,’ when the theme passes from Casper to Balthazar to Melchior 
+(\autoref*{4:n:e2}).
+
+![Bars 1–2 \label{4:n:e1}](images/14-chorus_0001.pdf)
+
+![Bars 4-5 \label{4:n:e2}](images/14-chorus_0002.pdf)
+
+\cleardoubleevenemptypage
 
 15^th^ [mt]: *But Mary wonder’d at these things*
 -----------------------------------------------
 
 ### Text
 
-> But Mary wonder’d at these things; and while        \rln \
+> But Mary wonder’d at these things; and while [^4:o:b1] \rln \
 > She mus’d, half bending o’er the charming Infant         \
 > Enraptur’d, a Fire of Extatic Joy                        \
 > Kindled in Her Soul; which from Her soft Tongue          \
@@ -699,30 +962,45 @@ Key: G. Time Signature: \lilyTimeSignature{3}{4}
 > Touch’d with the gentlest hands their tuneful Minstrels, \
 > While thus she sung her Eucharistic Hymn.
 
-\newpage
+[^4:o:b1]: \> luke 2:19
 
 ### Music
 
+Recitativo scored for Treble Solo\ed and Continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{}. 15 bars in length with attacca into 
+following Aria. 
+
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
 16^th^ [mt]: *My Soul shall glory in the Lord*
 ---------------------------------------------
 
 ### Text
 
-> |   My Soul shall glory in the Lord;                              ^[~ a] \rln
-> |   My Spirit triumph in His Praise:                              ^[~ b]
-> |  For God to me he’s deign’d t’afford                            ^[~ a]
+> |   My Soul shall glory in the Lord;       ^[\> luke 1:46]        ^[~ a] \rln
+> |   My Spirit triumph in His Praise:       ^[\> luke 1:47]        ^[~ b]
+> |  For God to me he’s deign’d t’afford     ^[\> luke 1:48]        ^[~ a]
 > |     Peculiar Grace, and highly raise.                           ^[~ b]
 
 > | Ages to come shall aggrandize my Fame:                          ^[~ c]
-> | But Holy, Holy, Holy is His Name.                               ^[~ c]
-
-\newpage
+> | But Holy, Holy, Holy is His Name.        ^[\> luke 1:49]        ^[~ c]
 
 ### Music
 
+Da capo Aria scored for the Virgin Mary (Soprano\ed) with \violinoI\andII, 
+\viola{} and \continuo\ed.\
+Key Signature: D. Time: \lilyTimeSignature{6}{8}. 95 bars in length including 
+da capo; 55 bars in length excluding da capo.
+
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
 17^th^ [mt], *Grand Chorus: This Festival demands a Joy*
 -------------------------------------------------------
@@ -736,9 +1014,16 @@ Key: G. Time Signature: \lilyTimeSignature{3}{4}
 > |   To celebrate Messiah’s Birth;                               ^[~ b]
 > | And All in One Grand Hallelujah join.                         ^[~ c]
 
-\newpage
-
 ### Music
 
+Chorus scored for SATB Chorus\ed{} with \tromba, \violinoI\andII, \viola, 
+\cello\ed{} and \continuo\ed.\
+Key Signature: D. Time: \lilyTimeC{} for 76 bars, \lilyTimeSignature{12}{8} for 
+35 bars. 111 bars in length.
+
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
