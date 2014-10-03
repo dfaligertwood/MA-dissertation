@@ -964,8 +964,6 @@ Subjects,’ when the theme passes from Casper to Balthazar to Melchior
 
 [^4:o:b1]: \> luke 2:19
 
-\newpage
-
 ### Music
 
 Recitativo scored for Treble Solo\ed and Continuo\ed.\
@@ -973,6 +971,10 @@ Key Signature: D. Time: \lilyTimeC{}. 15 bars in length with attacca into
 following Aria. 
 
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
 16^th^ [mt]: *My Soul shall glory in the Lord*
 ---------------------------------------------
@@ -987,16 +989,18 @@ following Aria.
 > | Ages to come shall aggrandize my Fame:                          ^[~ c]
 > | But Holy, Holy, Holy is His Name.        ^[\> luke 1:49]        ^[~ c]
 
-\newpage
-
 ### Music
 
 Da capo Aria scored for the Virgin Mary (Soprano\ed) with \violinoI\andII, 
 \viola{} and \continuo\ed.\
-Key Signature: D. Time: \lilyTimeSignature{6}{8}. 55 bars in length excluding 
-da capo.
+Key Signature: D. Time: \lilyTimeSignature{6}{8}. 95 bars in length including 
+da capo; 55 bars in length excluding da capo.
 
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
 17^th^ [mt], *Grand Chorus: This Festival demands a Joy*
 -------------------------------------------------------
@@ -1010,9 +1014,11 @@ da capo.
 > |   To celebrate Messiah’s Birth;                               ^[~ b]
 > | And All in One Grand Hallelujah join.                         ^[~ c]
 
-\newpage
-
 ### Music
 
 \newpage
+
+### Commentary
+
+\cleardoubleevenemptypage
 
