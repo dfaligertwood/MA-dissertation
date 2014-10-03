@@ -4,6 +4,7 @@ author: '<span style="font-variant:small-caps;">d f a ligertwood</span>'
 csl: chicago-annotated-bibliography.csl
 documentclass: scrbook
 classoption:
+        - 'oneside'
         - 'headings=twolinechapter'
         - 'nochapterprefix'
 mainfont: EB Garamond
