@@ -4,7 +4,6 @@ author: '<span style="font-variant:small-caps;">d f a ligertwood</span>'
 csl: chicago-annotated-bibliography.csl
 documentclass: scrbook
 classoption:
-        - 'oneside'
         - 'headings=twolinechapter'
         - 'nochapterprefix'
 mainfont: EB Garamond
@@ -13,11 +12,17 @@ mainfontoptions:
         - 'AutoFakeBold=2.5'
 fontsize: 11pt
 papersize: a4paper
-bibliography: /Users/dfaligertwood/.pandoc/default.json
+bibliography: thesis.json
 toc: true
 toc-depth: 1
 nocite: |
         @Anon_1714_1747_i808, @Alsop_1705_1747_i1051, @Anon_i1199
+filters:
+        - './pandoc-lineno'
+        - './pandoc-macros'
+        - 'pandoc-ednotes'
+        - 'pandoc-sidenotes'
+        - 'pandoc-citeproc'
 ---
 
 <!-- add - 'oneside' to classoption. -->
