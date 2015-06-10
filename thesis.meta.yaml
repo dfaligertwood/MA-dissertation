@@ -1,5 +1,5 @@
 ---
-title: '<span style="font-variant:small-caps;">Durham Cathedral</span>'
+title: '<span style="font-variant:small-caps;">Durham Cathedral ms d1</span>'
 author: '<span style="font-variant:small-caps;">d f a ligertwood</span>'
 csl: chicago-annotated-bibliography.csl
 documentclass: scrbook
@@ -20,7 +20,7 @@ nocite: |
 filters:
         - './pandoc-lineno'
         - './pandoc-macros'
-        - 'pandoc-ednotes'
+        - './pandoc-ednotes'
         - 'pandoc-sidenotes'
         - 'pandoc-citeproc'
 ---
