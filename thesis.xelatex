@@ -1,0 +1,233 @@
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$lang$,$endif$$if(papersize)$$papersize$,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+
+	\usepackage[T1]{fontenc}
+	\usepackage{amssymb,amsmath}
+	\usepackage{ifxetex,ifluatex}
+	\usepackage{fixltx2e} % provides \textsubscript
+	% use upquote if available, for straight quotes in verbatim environments
+	\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+	\usepackage{ifmtarg}
+	\usepackage{mathspec}
+	\usepackage{xltxtra,xunicode}
+	\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+	\newcommand{\euro}{€}
+	
+	$if(mainfont)$
+		\setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+	$endif$
+	$if(sansfont)$
+		\setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
+	$endif$
+	$if(monofont)$
+		\setmonofont[Mapping=tex-ansi]{$monofont$}
+	$endif$
+	$if(mathfont)$
+		\setmathfont(Digits,Latin,Greek){$mathfont$}
+	$endif$
+	
+	\usepackage{microtype}
+	
+	$if(geometry)$
+		\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+	$endif$
+	$if(listings)$
+		\usepackage{listings}
+	$endif$
+	$if(lhs)$
+		\lstnewenvironment{code}{\lstset{language=Haskell,basicstyle=\small\ttfamily}}{}
+	$endif$
+	$if(highlighting-macros)$
+		$highlighting-macros$
+	$endif$
+	$if(verbatim-in-note)$
+		\usepackage{fancyvrb}
+	$endif$
+	$if(tables)$
+		\usepackage{longtable,booktabs}
+	$endif$
+	$if(graphics)$
+		\usepackage{graphicx}
+		% Redefine \includegraphics so that, unless explicit options are
+		% given, the image width will not exceed the width of the page.
+		% Images get their normal width if they fit onto the page, but
+		% are scaled down if they would overflow the margins.
+		\makeatletter
+			\def\ScaleIfNeeded{%
+				\ifdim\Gin@nat@width>\linewidth
+				\linewidth
+				\else
+				\Gin@nat@width
+				\fi
+			}%
+		\makeatother
+		\let\Oldincludegraphics\includegraphics
+		{%
+			\catcode`\@=11\relax%
+			\gdef\includegraphics{\@ifnextchar[{\Oldincludegraphics}{\Oldincludegraphics[width=\ScaleIfNeeded]}}%
+		}%ScaleIfNeeded
+	$endif$
+	\usepackage[setpagesize=false, % page size defined by xetex
+		unicode=false, % unicode breaks when used with xetex
+		xetex]{hyperref}
+	\hypersetup{breaklinks=true,
+		bookmarks=true,
+		pdfauthor={$author-meta$},
+		pdftitle={$title-meta$},
+		colorlinks=true,
+		citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
+		urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
+		linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+		pdfborder={0 0 0}}
+	\urlstyle{same}  % don't use monospace font for urls
+	$if(links-as-notes)$
+		% Make links footnotesizetnotes instead of hotlinks:
+		\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+	$endif$
+	$if(strikeout)$
+		\usepackage[normalem]{ulem}
+		% asvoid problems with \sout in headers with hyperref:
+		\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+	$endif$
+	\setlength{\parindent}{0pt}
+	\setlength{\parskip}{6pt plus 2pt minus 1pt}
+	\setlength{\emergencystretch}{3em}  % prevent overfull lines
+	\setcounter{secnumdepth}{1}
+	$if(verbatim-in-innote)$
+		\VerbatimFootnotes % allows verbatim text in footnotes
+	$endif$
+	$if(lang)$
+		\usepackage{polyglossia}
+		\setmainlanguage{$mainlang$}
+	$endif$
+	
+	\newcommand{\chapterFont}[1]{
+		%\vspace*{0em}
+		%\hspace*{2em}
+		\MakeUppercase{\titleFont\Large #1}
+		\vspace*{1.8em}
+	}
+	
+	
+	\newfontface\titleFont[LetterSpace=2]{Avenir Next Medium}
+	\setkomafont{chapter}{\chapterFont}
+	\setkomafont{section}{\hspace*{-1.5em}\normalfont\addfontfeatures{RawFeature={+smcp,+c2sc}}\singlespacing}
+	\setkomafont{subsection}{\hspace*{1em}\normalfont\textit}
+	\newfontface\authorFont[Letters=SmallCaps]{Avenir Next}
+	
+	$if(title)$
+		\title{\titleFont\MakeUppercase{$title$}}
+	$endif$
+	$if(subtitle)$
+		\subtitle{$subtitle$}
+	$endif$
+	$if(author)$
+		\author{\authorFont $for(author)$$author$$sep$ \and $endfor$}
+	$endif$
+	\date{$date$}
+        \providecommand{\tightlist}{%
+          \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}	
+	%\usepackage[parapparatus]{eledmac}
+	%\fnpos{critical-familiar}
+	\usepackage[Apara, Bpara]{ednotes}
+	\setlength\linenumbersep{-1em}
+	
+	\usepackage{marginnote}
+	\renewcommand{\marginfont}{\footnotesize\addfontfeatures{Letters=SmallCaps}}
+
+	\usepackage{afterpage}
+	\usepackage{bigfoot}
+	\usepackage[doublespacing]{setspace}
+	\usepackage{xpatch}
+	\makeatletter
+		\patchcmd{\@makefnstartbox}
+		{\reset@font}
+		{\def\baselinestretch {\setspace@singlespace}\reset@font}
+		{}{}
+	\makeatother
+	\usepackage{lilyglyphs}
+	% Configure lilyglyphs
+	
+	\makeatletter
+		\newcommand{\revEntry}[4]{\textbf{{[}#1{]}}\@ifmtarg{#3}{:}{, #3:} #2 --- #4 \\}
+	\makeatother
+	\newcommand{\bassFigures}[2]{\hspace{-1ex}\begin{tabular}{c} #1 \\[-0.9em] #2 \end{tabular}\hspace{-1ex}}
+	\newcommand{\describeMvmt}[6]{#1 for #2 with #3 \\}
+	\newcommand{\describeMusi}[3]{Key signature: #1. Time signature: #2. #3 bars long.}
+	\newcommand{\rln}{\resetlinenumber}
+	\newcommand{\thl}{\vspace*{0.5\baselineskip}}
+	
+	\newcommand{\viola}{Viola}
+	\newcommand{\violino}{Violino}
+	\newcommand{\violinoI}{Violino 1\textsuperscript{mo}}
+	\newcommand{\violinoII}{Violino 2\textsuperscript{do}}
+	\newcommand{\continuo}{Continuo}
+	\newcommand{\figuredBass}{\continuo{} figures}
+	\newcommand{\tromba}{Tromba}
+	\newcommand{\travers}{Traversiere}
+	\newcommand{\traversI}{Traversiere 1\textsuperscript{mo}}
+	\newcommand{\traversII}{Traversiere 2\textsuperscript{do}}
+	\newcommand{\andII}{ and 2\textsuperscript{do}}
+	\newcommand{\oboe}{Oboe}
+	\newcommand{\cello}{Violoncello}
+	\newcommand{\ed}{\textsuperscript{†}}
+	
+	\newcommand{\basso}{Bass}
+	\newcommand{\baritone}{Baritone}
+	\newcommand{\tenore}{Tenor}
+	\newcommand{\altus}{Alto}
+	\newcommand{\treble}{Treble}
+	
+	
+	\newcommand{\mvmt}{movement}
+	\newcommand{\beat}{beat}
+	
+	\newcommand{\fourBeamedQuavers}{all beamed}
+	
+	$for(header-includes)$
+		$header-includes$
+	$endfor$
+
+\begin{document}
+	$if(title)$
+		\maketitle
+	$endif$
+	$if(abstract)$
+		\begin{abstract}
+			$abstract$
+		\end{abstract}
+	$endif$
+
+	$for(include-before)$
+		$include-before$
+	$endfor$
+
+	$if(toc)$
+		{
+			\hypersetup{linkcolor=black}
+			\setcounter{tocdepth}{$toc-depth$}
+			\tableofcontents
+		}
+	$endif$
+
+	$body$
+
+	$if(natbib)$
+		$if(biblio-files)$
+			$if(biblio-title)$
+				$if(book-class)$
+					\renewcommand\bibname{$biblio-title$}
+				$else$
+					\renewcommand\refname{$biblio-title$}
+				$endif$
+			$endif$
+			\bibliography{$biblio-files$}
+		$endif$
+	$endif$
+	$if(biblatex)$
+		\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+	$endif$
+	
+	$for(include-after)$
+		$include-after$
+	$endfor$
+\end{document}
